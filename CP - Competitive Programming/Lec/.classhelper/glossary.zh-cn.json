@@ -1,0 +1,894 @@
+{
+  "terms": {
+    "course mode": {
+      "translation": "课程形式",
+      "locked": false,
+      "count": 1
+    },
+    "in-class exercise": {
+      "translation": "课堂练习",
+      "locked": false,
+      "count": 1
+    },
+    "programming language": {
+      "translation": "编程语言",
+      "locked": false,
+      "count": 1
+    },
+    "data structure": {
+      "translation": "数据结构",
+      "locked": false,
+      "count": 1
+    },
+    "algorithm": {
+      "translation": "算法",
+      "locked": false,
+      "count": 1
+    },
+    "algorithms": {
+      "translation": "算法",
+      "locked": false,
+      "count": 1
+    },
+    "data structures": {
+      "translation": "数据结构",
+      "locked": false,
+      "count": 1
+    },
+    "program": {
+      "translation": "程序",
+      "locked": false,
+      "count": 1
+    },
+    "efficiently": {
+      "translation": "高效地",
+      "locked": false,
+      "count": 1
+    },
+    "bugs": {
+      "translation": "错误",
+      "locked": false,
+      "count": 1
+    },
+    "competitive programming": {
+      "translation": "竞赛编程",
+      "locked": false,
+      "count": 1
+    },
+    "international collegiate programming contest": {
+      "translation": "国际大学生程序设计竞赛",
+      "locked": false,
+      "count": 1
+    },
+    "algorithmic programming contest": {
+      "translation": "算法编程竞赛",
+      "locked": false,
+      "count": 1
+    },
+    "real-world problems": {
+      "translation": "现实问题",
+      "locked": false,
+      "count": 1
+    },
+    "raise the bar": {
+      "translation": "提升标准",
+      "locked": false,
+      "count": 1
+    },
+    "problem solving strategy": {
+      "translation": "问题解决策略",
+      "locked": false,
+      "count": 1
+    },
+    "problem set": {
+      "translation": "题目集",
+      "locked": false,
+      "count": 1
+    },
+    "contest": {
+      "translation": "竞赛",
+      "locked": false,
+      "count": 1
+    },
+    "ad hoc": {
+      "translation": "特设",
+      "locked": false,
+      "count": 1
+    },
+    "complete search": {
+      "translation": "完全搜索",
+      "locked": false,
+      "count": 1
+    },
+    "divide and conquer": {
+      "translation": "分治",
+      "locked": false,
+      "count": 1
+    },
+    "dynamic programming": {
+      "translation": "动态规划",
+      "locked": false,
+      "count": 1
+    },
+    "greedy": {
+      "translation": "贪心",
+      "locked": false,
+      "count": 1
+    },
+    "graph traversal": {
+      "translation": "图遍历",
+      "locked": false,
+      "count": 1
+    },
+    "minimum spanning tree": {
+      "translation": "最小生成树",
+      "locked": false,
+      "count": 1
+    },
+    "network flow": {
+      "translation": "网络流",
+      "locked": false,
+      "count": 1
+    },
+    "number theory": {
+      "translation": "数论",
+      "locked": false,
+      "count": 1
+    },
+    "shortest paths": {
+      "translation": "最短路径",
+      "locked": false,
+      "count": 1
+    },
+    "string matching": {
+      "translation": "字符串匹配",
+      "locked": false,
+      "count": 1
+    },
+    "assessment methods": {
+      "translation": "考核方式",
+      "locked": false,
+      "count": 1
+    },
+    "programming exercise": {
+      "translation": "编程练习",
+      "locked": false,
+      "count": 1
+    },
+    "programming assignment": {
+      "translation": "编程作业",
+      "locked": false,
+      "count": 1
+    },
+    "quiz": {
+      "translation": "测验",
+      "locked": false,
+      "count": 1
+    },
+    "final contest": {
+      "translation": "最终竞赛",
+      "locked": false,
+      "count": 1
+    },
+    "图": {
+      "translation": "graph",
+      "locked": false,
+      "count": 1
+    },
+    "图遍历": {
+      "translation": "graph traversal",
+      "locked": false,
+      "count": 1
+    },
+    "最小生成树": {
+      "translation": "minimum spanning tree",
+      "locked": false,
+      "count": 1
+    },
+    "最短路径": {
+      "translation": "shortest path",
+      "locked": false,
+      "count": 1
+    },
+    "网络流": {
+      "translation": "network flow",
+      "locked": false,
+      "count": 1
+    },
+    "图匹配": {
+      "translation": "graph matching",
+      "locked": false,
+      "count": 1
+    },
+    "数学": {
+      "translation": "mathematics",
+      "locked": false,
+      "count": 1
+    },
+    "特设数学问题": {
+      "translation": "ad hoc mathematics problems",
+      "locked": false,
+      "count": 1
+    },
+    "数论": {
+      "translation": "number theory",
+      "locked": false,
+      "count": 1
+    },
+    "字符串处理": {
+      "translation": "string processing",
+      "locked": false,
+      "count": 1
+    },
+    "基本字符串处理技能": {
+      "translation": "basic string processing skills",
+      "locked": false,
+      "count": 1
+    },
+    "特设字符串处理问题": {
+      "translation": "ad hoc string processing problems",
+      "locked": false,
+      "count": 1
+    },
+    "字符串匹配": {
+      "translation": "string matching",
+      "locked": false,
+      "count": 1
+    },
+    "计算几何": {
+      "translation": "computational geometry",
+      "locked": false,
+      "count": 1
+    },
+    "基本几何对象": {
+      "translation": "basic geometry objects",
+      "locked": false,
+      "count": 1
+    },
+    "带库": {
+      "translation": "with libraries",
+      "locked": false,
+      "count": 1
+    },
+    "多边形算法": {
+      "translation": "algorithm on polygon",
+      "locked": false,
+      "count": 1
+    },
+    "其他高级主题": {
+      "translation": "other advanced topics",
+      "locked": false,
+      "count": 1
+    },
+    "sub-matrix": {
+      "translation": "子矩阵",
+      "locked": false,
+      "count": 1
+    },
+    "mean": {
+      "translation": "均值",
+      "locked": false,
+      "count": 1
+    },
+    "icpc": {
+      "translation": "ICPC",
+      "locked": false,
+      "count": 1
+    },
+    "asia regional": {
+      "translation": "亚洲区域赛",
+      "locked": false,
+      "count": 1
+    },
+    "straightforward": {
+      "translation": "直接",
+      "locked": false,
+      "count": 1
+    },
+    "simulation": {
+      "translation": "模拟",
+      "locked": false,
+      "count": 1
+    },
+    "iterative": {
+      "translation": "迭代",
+      "locked": false,
+      "count": 1
+    },
+    "backtracking": {
+      "translation": "回溯",
+      "locked": false,
+      "count": 1
+    },
+    "classic": {
+      "translation": "经典",
+      "locked": false,
+      "count": 1
+    },
+    "original": {
+      "translation": "原创",
+      "locked": false,
+      "count": 1
+    },
+    "graph": {
+      "translation": "图",
+      "locked": false,
+      "count": 1
+    },
+    "mathematics": {
+      "translation": "数学",
+      "locked": false,
+      "count": 1
+    },
+    "stringprocessing": {
+      "translation": "字符串处理",
+      "locked": false,
+      "count": 1
+    },
+    "computational geometry": {
+      "translation": "计算几何",
+      "locked": false,
+      "count": 1
+    },
+    "some harder ones": {
+      "translation": "一些较难的问题",
+      "locked": false,
+      "count": 1
+    },
+    "programming languages": {
+      "translation": "编程语言",
+      "locked": false,
+      "count": 1
+    },
+    "bug-free": {
+      "translation": "无错误",
+      "locked": false,
+      "count": 1
+    },
+    "algorithm analysis": {
+      "translation": "算法分析",
+      "locked": false,
+      "count": 1
+    },
+    "bubble sort": {
+      "translation": "冒泡排序",
+      "locked": false,
+      "count": 1
+    },
+    "merge sort": {
+      "translation": "归并排序",
+      "locked": false,
+      "count": 1
+    },
+    "time limit": {
+      "translation": "时限",
+      "locked": false,
+      "count": 1
+    },
+    "rule of thumb": {
+      "translation": "经验法则",
+      "locked": false,
+      "count": 1
+    },
+    "online judge": {
+      "translation": "在线评测",
+      "locked": false,
+      "count": 1
+    },
+    "live archive": {
+      "translation": "在线题库",
+      "locked": false,
+      "count": 1
+    },
+    "edge cases": {
+      "translation": "边界情况",
+      "locked": false,
+      "count": 1
+    },
+    "cost cutting": {
+      "translation": "削减成本",
+      "locked": false,
+      "count": 1
+    },
+    "recession": {
+      "translation": "经济衰退",
+      "locked": false,
+      "count": 1
+    },
+    "lay-off": {
+      "translation": "裁员",
+      "locked": false,
+      "count": 1
+    },
+    "pink slips": {
+      "translation": "解雇通知书",
+      "locked": false,
+      "count": 1
+    },
+    "accounts department": {
+      "translation": "会计部门",
+      "locked": false,
+      "count": 1
+    },
+    "salary": {
+      "translation": "薪水",
+      "locked": false,
+      "count": 1
+    },
+    "survives": {
+      "translation": "幸存",
+      "locked": false,
+      "count": 1
+    },
+    "problem solving paradigms": {
+      "translation": "问题解决范式",
+      "locked": false,
+      "count": 1
+    },
+    "problem solving paradigm": {
+      "translation": "问题解决范式",
+      "locked": false,
+      "count": 1
+    },
+    "paradigm": {
+      "translation": "范式",
+      "locked": false,
+      "count": 1
+    },
+    "iterating": {
+      "translation": "迭代",
+      "locked": false,
+      "count": 1
+    },
+    "backtracking (recursion)": {
+      "translation": "回溯（递归）",
+      "locked": false,
+      "count": 1
+    },
+    "binary search": {
+      "translation": "二分查找",
+      "locked": false,
+      "count": 1
+    },
+    "binary exponentiation": {
+      "translation": "快速幂",
+      "locked": false,
+      "count": 1
+    },
+    "fibonacci words": {
+      "translation": "斐波那契词",
+      "locked": false,
+      "count": 1
+    },
+    "finite set": {
+      "translation": "有限集合",
+      "locked": false,
+      "count": 1
+    },
+    "constraints": {
+      "translation": "约束",
+      "locked": false,
+      "count": 1
+    },
+    "runs in time": {
+      "translation": "在时限内运行",
+      "locked": false,
+      "count": 1
+    },
+    "search space": {
+      "translation": "搜索空间",
+      "locked": false,
+      "count": 1
+    },
+    "permutations": {
+      "translation": "排列",
+      "locked": false,
+      "count": 1
+    },
+    "subsets": {
+      "translation": "子集",
+      "locked": false,
+      "count": 1
+    },
+    "n queens": {
+      "translation": "n 皇后",
+      "locked": false,
+      "count": 1
+    },
+    "chessboard": {
+      "translation": "棋盘",
+      "locked": false,
+      "count": 1
+    },
+    "iterate": {
+      "translation": "遍历",
+      "locked": false,
+      "count": 1
+    },
+    "iterating through permutations": {
+      "translation": "遍历排列",
+      "locked": false,
+      "count": 1
+    },
+    "moviegoers": {
+      "translation": "观影者",
+      "locked": false,
+      "count": 1
+    },
+    "seating constraints": {
+      "translation": "座位约束",
+      "locked": false,
+      "count": 1
+    },
+    "seating arrangements": {
+      "translation": "座位安排",
+      "locked": false,
+      "count": 1
+    },
+    "iterating through subsets": {
+      "translation": "遍历子集",
+      "locked": false,
+      "count": 1
+    },
+    "water gate": {
+      "translation": "闸门",
+      "locked": false,
+      "count": 1
+    },
+    "flow rate": {
+      "translation": "流量",
+      "locked": false,
+      "count": 1
+    },
+    "damage cost": {
+      "translation": "损害成本",
+      "locked": false,
+      "count": 1
+    },
+    "iterative complete search": {
+      "translation": "迭代完全搜索",
+      "locked": false,
+      "count": 1
+    },
+    "counter": {
+      "translation": "counter",
+      "locked": false,
+      "count": 1
+    },
+    "framework": {
+      "translation": "框架",
+      "locked": false,
+      "count": 1
+    },
+    "state": {
+      "translation": "状态",
+      "locked": false,
+      "count": 1
+    },
+    "transition": {
+      "translation": "转移",
+      "locked": false,
+      "count": 1
+    },
+    "recursion": {
+      "translation": "递归",
+      "locked": false,
+      "count": 1
+    },
+    "traverse": {
+      "translation": "遍历",
+      "locked": false,
+      "count": 1
+    },
+    "branch": {
+      "translation": "分支",
+      "locked": false,
+      "count": 1
+    },
+    "partial state": {
+      "translation": "部分状态",
+      "locked": false,
+      "count": 1
+    },
+    "complete state": {
+      "translation": "完整状态",
+      "locked": false,
+      "count": 1
+    },
+    "empty state": {
+      "translation": "空状态",
+      "locked": false,
+      "count": 1
+    },
+    "cell": {
+      "translation": "格子",
+      "locked": false,
+      "count": 1
+    },
+    "queen": {
+      "translation": "皇后",
+      "locked": false,
+      "count": 1
+    },
+    "attack": {
+      "translation": "攻击",
+      "locked": false,
+      "count": 1
+    },
+    "recursive backtracking": {
+      "translation": "递归回溯",
+      "locked": false,
+      "count": 1
+    },
+    "all-different constraint": {
+      "translation": "all-different 约束",
+      "locked": false,
+      "count": 1
+    },
+    "permutation": {
+      "translation": "排列",
+      "locked": false,
+      "count": 1
+    },
+    "prune": {
+      "translation": "剪枝",
+      "locked": false,
+      "count": 1
+    },
+    "main diagonal": {
+      "translation": "主对角线",
+      "locked": false,
+      "count": 1
+    },
+    "secondary diagonal": {
+      "translation": "副对角线",
+      "locked": false,
+      "count": 1
+    },
+    "8 queens": {
+      "translation": "8 皇后",
+      "locked": false,
+      "count": 1
+    },
+    "naïve ways": {
+      "translation": "朴素做法",
+      "locked": false,
+      "count": 1
+    },
+    "time limit exceeded": {
+      "translation": "超时",
+      "locked": false,
+      "count": 1
+    },
+    "possibilities": {
+      "translation": "可能",
+      "locked": false,
+      "count": 1
+    },
+    "insight": {
+      "translation": "思路",
+      "locked": false,
+      "count": 1
+    },
+    "column": {
+      "translation": "列",
+      "locked": false,
+      "count": 1
+    },
+    "hamming distance": {
+      "translation": "汉明距离",
+      "locked": false,
+      "count": 1
+    },
+    "time complexity": {
+      "translation": "时间复杂度",
+      "locked": false,
+      "count": 1
+    },
+    "decrease and conquer": {
+      "translation": "减治",
+      "locked": false,
+      "count": 1
+    },
+    "subproblem": {
+      "translation": "子问题",
+      "locked": false,
+      "count": 1
+    },
+    "recursively": {
+      "translation": "递归地",
+      "locked": false,
+      "count": 1
+    },
+    "quick sort": {
+      "translation": "快速排序",
+      "locked": false,
+      "count": 1
+    },
+    "karatsuba algorithm": {
+      "translation": "Karatsuba 算法",
+      "locked": false,
+      "count": 1
+    },
+    "strassen algorithm": {
+      "translation": "Strassen 算法",
+      "locked": false,
+      "count": 1
+    },
+    "convex hull": {
+      "translation": "凸包",
+      "locked": false,
+      "count": 1
+    },
+    "closest pair of points": {
+      "translation": "最近点对",
+      "locked": false,
+      "count": 1
+    },
+    "recurrence": {
+      "translation": "递归式",
+      "locked": false,
+      "count": 1
+    },
+    "master theorem": {
+      "translation": "主定理",
+      "locked": false,
+      "count": 1
+    },
+    "asymptotic": {
+      "translation": "渐近",
+      "locked": false,
+      "count": 1
+    },
+    "asymptotic time complexity": {
+      "translation": "渐近时间复杂度",
+      "locked": false,
+      "count": 1
+    },
+    "sorted array": {
+      "translation": "有序数组",
+      "locked": false,
+      "count": 1
+    },
+    "base case": {
+      "translation": "基本情况",
+      "locked": false,
+      "count": 1
+    },
+    "index": {
+      "translation": "下标",
+      "locked": false,
+      "count": 1
+    },
+    "predicate": {
+      "translation": "谓词",
+      "locked": false,
+      "count": 1
+    },
+    "array": {
+      "translation": "数组",
+      "locked": false,
+      "count": 1
+    },
+    "binary search over reals": {
+      "translation": "实数上的二分查找",
+      "locked": false,
+      "count": 1
+    },
+    "real numbers": {
+      "translation": "实数",
+      "locked": false,
+      "count": 1
+    },
+    "reals": {
+      "translation": "实数",
+      "locked": false,
+      "count": 1
+    },
+    "naive method": {
+      "translation": "朴素方法",
+      "locked": false,
+      "count": 1
+    },
+    "built-in pow method": {
+      "translation": "内置 pow 方法",
+      "locked": false,
+      "count": 1
+    },
+    "binary search the answer": {
+      "translation": "二分答案",
+      "locked": false,
+      "count": 1
+    },
+    "binary search property": {
+      "translation": "二分性质",
+      "locked": false,
+      "count": 1
+    },
+    "optimal solution": {
+      "translation": "最优解",
+      "locked": false,
+      "count": 1
+    },
+    "minimum or maximum solution": {
+      "translation": "最小或最大解",
+      "locked": false,
+      "count": 1
+    },
+    "efficient": {
+      "translation": "高效",
+      "locked": false,
+      "count": 1
+    },
+    "identity": {
+      "translation": "恒等式",
+      "locked": false,
+      "count": 1
+    },
+    "integer": {
+      "translation": "整数",
+      "locked": false,
+      "count": 1
+    },
+    "even": {
+      "translation": "偶数",
+      "locked": false,
+      "count": 1
+    },
+    "odd": {
+      "translation": "奇数",
+      "locked": false,
+      "count": 1
+    },
+    "floating point number": {
+      "translation": "浮点数",
+      "locked": false,
+      "count": 1
+    },
+    "matrix": {
+      "translation": "矩阵",
+      "locked": false,
+      "count": 1
+    },
+    "matrix multiplication": {
+      "translation": "矩阵乘法",
+      "locked": false,
+      "count": 1
+    },
+    "associative operator": {
+      "translation": "结合运算符",
+      "locked": false,
+      "count": 1
+    },
+    "modulo": {
+      "translation": "模",
+      "locked": false,
+      "count": 1
+    },
+    "integer multiplication": {
+      "translation": "整数乘法",
+      "locked": false,
+      "count": 1
+    },
+    "fibonacci sequence": {
+      "translation": "斐波那契数列",
+      "locked": false,
+      "count": 1
+    },
+    "generalizations": {
+      "translation": "推广",
+      "locked": false,
+      "count": 1
+    },
+    "string concatenation": {
+      "translation": "字符串拼接",
+      "locked": false,
+      "count": 1
+    },
+    "sequence of strings": {
+      "translation": "字符串序列",
+      "locked": false,
+      "count": 1
+    }
+  }
+}

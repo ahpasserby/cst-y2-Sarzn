@@ -1,0 +1,77 @@
+{
+    // ===== Code Runner =====
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.ignoreSelection": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.preserveFocus": false,
+    "code-runner.executorMap": {
+        // 变量必须加引号,否则文件名/路径里有空格时会被 shell 拆成多个参数
+        "c": "cd $dir && gcc -std=c11 -O2 -Wall -Wextra \"$fileName\" -o \"$fileNameWithoutExt\" && ./\"$fileNameWithoutExt\"",
+        "cpp": "cd $dir && g++ -std=c++17 -O2 -Wall -Wextra -I\"$workspaceRoot\" \"$fileName\" -o \"$fileNameWithoutExt\" && ./\"$fileNameWithoutExt\"",
+        "python": "python3 \"$fullFileName\""
+    },
+    // ===== C/C++ =====
+    "C_Cpp.debugShortcut": false,
+    "C_Cpp.default.cStandard": "c11",
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}"
+    ],
+    // ===== 文件与资源管理器 =====
+    "files.autoSave": "afterDelay",
+    "files.autoGuessEncoding": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.sortOrder": "type",
+    // ===== 编辑器行为 =====
+    "editor.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "smooth",
+    "editor.mouseWheelZoom": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": false,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.accessibilitySupport": "off",
+    "editor.minimap.enabled": false,
+    "editor.parameterHints.enabled": false,
+    "editor.scrollBeyondLastLine": false,
+    "workbench.list.smoothScrolling": true,
+    "terminal.integrated.smoothScrolling": true,
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    // ===== 外观 =====
+    "workbench.colorTheme": "Night Owl",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.statusBar.visible": false,
+    "editor.fontFamily": "JetBrains Mono, Menlo, Monaco, monospace",
+    "editor.fontWeight": "normal",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13,
+    // ===== 界面精简 =====
+    "window.commandCenter": false,
+    "window.title": "${activeEditorShort} — ${rootName}",
+    "window.titleBarStyle": "native",
+    "workbench.layoutControl.enabled": false,
+    "workbench.activityBar.location": "hidden",
+    "workbench.editor.editorActionsLocation": "hidden",
+    "breadcrumbs.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "editor.guides.bracketPairs": false,
+    "editor.guides.bracketPairsHorizontal": false,
+    "editor.showFoldingControls": "mouseover",
+    "editor.occurrencesHighlight": "off",
+    "editor.codeLens": false,
+    "editor.inlayHints.enabled": "off",
+    "editor.lightbulb.enabled": "off",
+    "editor.folding": false,
+    "editor.glyphMargin": false,
+    "editor.lineNumbersMinChars": 3,
+    "editor.lineDecorationsWidth": 4,
+    // ===== 右侧概览标尺:断点与光标位置 =====
+    "editor.hideCursorInOverviewRuler": false,
+    "editor.overviewRulerBorder": true,
+    "editor.scrollbar.verticalScrollbarSize": 14,
+    "debug.showBreakpointsInOverviewRuler": true
+}

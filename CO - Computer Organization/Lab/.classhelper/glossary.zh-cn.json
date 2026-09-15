@@ -1,0 +1,384 @@
+{
+  "terms": {
+    "lab": {
+      "translation": "实验",
+      "locked": false,
+      "count": 1
+    },
+    "ispace": {
+      "translation": "iSpace",
+      "locked": false,
+      "count": 1
+    },
+    "testcases": {
+      "translation": "测试用例",
+      "locked": false,
+      "count": 1
+    },
+    "submission": {
+      "translation": "提交",
+      "locked": false,
+      "count": 1
+    },
+    "marks": {
+      "translation": "分数",
+      "locked": false,
+      "count": 1
+    },
+    "exams": {
+      "translation": "考试",
+      "locked": false,
+      "count": 1
+    },
+    "digital": {
+      "translation": "Digital",
+      "locked": false,
+      "count": 1
+    },
+    "java runtime environment": {
+      "translation": "Java运行时环境",
+      "locked": false,
+      "count": 1
+    },
+    "jre": {
+      "translation": "JRE",
+      "locked": false,
+      "count": 1
+    },
+    "digital package": {
+      "translation": "Digital软件包",
+      "locked": false,
+      "count": 1
+    },
+    "jar file": {
+      "translation": "JAR文件",
+      "locked": false,
+      "count": 1
+    },
+    "circuit simulation": {
+      "translation": "电路仿真",
+      "locked": false,
+      "count": 1
+    },
+    "component tree": {
+      "translation": "组件树",
+      "locked": false,
+      "count": 1
+    },
+    "workspace": {
+      "translation": "工作区",
+      "locked": false,
+      "count": 1
+    },
+    "circuit": {
+      "translation": "电路",
+      "locked": false,
+      "count": 1
+    },
+    "digital component": {
+      "translation": "数字组件",
+      "locked": false,
+      "count": 1
+    },
+    "signal": {
+      "translation": "信号",
+      "locked": false,
+      "count": 1
+    },
+    "connection": {
+      "translation": "连接",
+      "locked": false,
+      "count": 1
+    },
+    "input": {
+      "translation": "输入",
+      "locked": false,
+      "count": 1
+    },
+    "output": {
+      "translation": "输出",
+      "locked": false,
+      "count": 1
+    },
+    "io": {
+      "translation": "IO",
+      "locked": false,
+      "count": 1
+    },
+    "view": {
+      "translation": "视图",
+      "locked": false,
+      "count": 1
+    },
+    "component tree view": {
+      "translation": "组件树视图",
+      "locked": false,
+      "count": 1
+    },
+    "component": {
+      "translation": "组件",
+      "locked": false,
+      "count": 1
+    },
+    "simulation": {
+      "translation": "仿真",
+      "locked": false,
+      "count": 1
+    },
+    "state": {
+      "translation": "状态",
+      "locked": false,
+      "count": 1
+    },
+    "red dot": {
+      "translation": "红点",
+      "locked": false,
+      "count": 1
+    },
+    "blue dot": {
+      "translation": "蓝点",
+      "locked": false,
+      "count": 1
+    },
+    "gate": {
+      "translation": "门",
+      "locked": false,
+      "count": 1
+    },
+    "link": {
+      "translation": "连接",
+      "locked": false,
+      "count": 1
+    },
+    "lmb": {
+      "translation": "鼠标左键",
+      "locked": false,
+      "count": 1
+    },
+    "zoom in/out": {
+      "translation": "放大/缩小",
+      "locked": false,
+      "count": 1
+    },
+    "mouse roller": {
+      "translation": "鼠标滚轮",
+      "locked": false,
+      "count": 1
+    },
+    "right mouse button": {
+      "translation": "鼠标右键",
+      "locked": false,
+      "count": 1
+    },
+    "left mouse button": {
+      "translation": "鼠标左键",
+      "locked": false,
+      "count": 1
+    },
+    "mouse drag": {
+      "translation": "鼠标拖拽",
+      "locked": false,
+      "count": 1
+    },
+    "select": {
+      "translation": "选择",
+      "locked": false,
+      "count": 1
+    },
+    "move": {
+      "translation": "移动",
+      "locked": false,
+      "count": 1
+    },
+    "remove": {
+      "translation": "删除",
+      "locked": false,
+      "count": 1
+    },
+    "selected": {
+      "translation": "选中的",
+      "locked": false,
+      "count": 1
+    },
+    "von neumann architecture": {
+      "translation": "冯·诺依曼架构",
+      "locked": false,
+      "count": 1
+    },
+    "fetch-decode-execution cycle": {
+      "translation": "取指-译码-执行周期",
+      "locked": false,
+      "count": 1
+    },
+    "counter": {
+      "translation": "计数器",
+      "locked": false,
+      "count": 1
+    },
+    "memory": {
+      "translation": "存储器",
+      "locked": false,
+      "count": 1
+    },
+    "decoder": {
+      "translation": "译码器",
+      "locked": false,
+      "count": 1
+    },
+    "alu": {
+      "translation": "ALU",
+      "locked": false,
+      "count": 1
+    },
+    "register": {
+      "translation": "寄存器",
+      "locked": false,
+      "count": 1
+    },
+    "operation code": {
+      "translation": "操作码",
+      "locked": false,
+      "count": 1
+    },
+    "addition": {
+      "translation": "加法",
+      "locked": false,
+      "count": 1
+    },
+    "subtraction": {
+      "translation": "减法",
+      "locked": false,
+      "count": 1
+    },
+    "address": {
+      "translation": "地址",
+      "locked": false,
+      "count": 1
+    },
+    "outcome": {
+      "translation": "结果",
+      "locked": false,
+      "count": 1
+    },
+    "instruction set": {
+      "translation": "指令集",
+      "locked": false,
+      "count": 1
+    },
+    "binary numbers": {
+      "translation": "二进制数",
+      "locked": false,
+      "count": 1
+    },
+    "hexadecimal numbers": {
+      "translation": "十六进制数",
+      "locked": false,
+      "count": 1
+    },
+    "instruction codes": {
+      "translation": "指令代码",
+      "locked": false,
+      "count": 1
+    },
+    "hexadecimal number": {
+      "translation": "十六进制数",
+      "locked": false,
+      "count": 1
+    },
+    "binary": {
+      "translation": "二进制",
+      "locked": false,
+      "count": 1
+    },
+    "operation": {
+      "translation": "操作",
+      "locked": false,
+      "count": 1
+    },
+    "operand": {
+      "translation": "操作数",
+      "locked": false,
+      "count": 1
+    },
+    "nor": {
+      "translation": "或非",
+      "locked": false,
+      "count": 1
+    },
+    "not": {
+      "translation": "非",
+      "locked": false,
+      "count": 1
+    },
+    "or gate": {
+      "translation": "或门",
+      "locked": false,
+      "count": 1
+    },
+    "and gate": {
+      "translation": "与门",
+      "locked": false,
+      "count": 1
+    },
+    "boolean operator": {
+      "translation": "布尔运算",
+      "locked": false,
+      "count": 1
+    },
+    "multiplication": {
+      "translation": "乘法",
+      "locked": false,
+      "count": 1
+    },
+    "test case": {
+      "translation": "测试用例",
+      "locked": false,
+      "count": 1
+    },
+    "xor": {
+      "translation": "异或",
+      "locked": false,
+      "count": 1
+    },
+    "or": {
+      "translation": "或",
+      "locked": false,
+      "count": 1
+    },
+    "and": {
+      "translation": "与",
+      "locked": false,
+      "count": 1
+    },
+    "dnf": {
+      "translation": "析取范式",
+      "locked": false,
+      "count": 1
+    },
+    "boolean function": {
+      "translation": "布尔函数",
+      "locked": false,
+      "count": 1
+    },
+    "logic circuit": {
+      "translation": "逻辑电路",
+      "locked": false,
+      "count": 1
+    },
+    "truth table": {
+      "translation": "真值表",
+      "locked": false,
+      "count": 1
+    },
+    "karnaugh map": {
+      "translation": "卡诺图",
+      "locked": false,
+      "count": 1
+    },
+    "inputs": {
+      "translation": "输入",
+      "locked": false,
+      "count": 1
+    }
+  }
+}

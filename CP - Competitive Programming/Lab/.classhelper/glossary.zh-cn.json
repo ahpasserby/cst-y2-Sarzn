@@ -1,0 +1,209 @@
+{
+  "terms": {
+    "flip game": {
+      "translation": "翻转游戏",
+      "locked": false,
+      "count": 1
+    },
+    "field": {
+      "translation": "棋盘",
+      "locked": false,
+      "count": 1
+    },
+    "pieces": {
+      "translation": "棋子",
+      "locked": false,
+      "count": 1
+    },
+    "rounds": {
+      "translation": "轮",
+      "locked": false,
+      "count": 1
+    },
+    "black side up": {
+      "translation": "黑色面朝上",
+      "locked": false,
+      "count": 1
+    },
+    "white side up": {
+      "translation": "白色面朝上",
+      "locked": false,
+      "count": 1
+    },
+    "adjacent pieces": {
+      "translation": "相邻棋子",
+      "locked": false,
+      "count": 1
+    },
+    "minimum number of rounds": {
+      "translation": "最少轮数",
+      "locked": false,
+      "count": 1
+    },
+    "bitmask": {
+      "translation": "位掩码",
+      "locked": false,
+      "count": 1
+    },
+    "lightweight set": {
+      "translation": "轻量级集合",
+      "locked": false,
+      "count": 1
+    },
+    "boolean": {
+      "translation": "布尔",
+      "locked": false,
+      "count": 1
+    },
+    "bit string": {
+      "translation": "位串",
+      "locked": false,
+      "count": 1
+    },
+    "set": {
+      "translation": "集合",
+      "locked": false,
+      "count": 1
+    },
+    "empty set": {
+      "translation": "空集",
+      "locked": false,
+      "count": 1
+    },
+    "single element set": {
+      "translation": "单元素集",
+      "locked": false,
+      "count": 1
+    },
+    "universe set": {
+      "translation": "全集",
+      "locked": false,
+      "count": 1
+    },
+    "union": {
+      "translation": "并集",
+      "locked": false,
+      "count": 1
+    },
+    "intersection": {
+      "translation": "交集",
+      "locked": false,
+      "count": 1
+    },
+    "complement": {
+      "translation": "补集",
+      "locked": false,
+      "count": 1
+    },
+    "binary search tree": {
+      "translation": "二叉搜索树",
+      "locked": false,
+      "count": 1
+    },
+    "successor": {
+      "translation": "后继",
+      "locked": false,
+      "count": 1
+    },
+    "kth largest": {
+      "translation": "第k大",
+      "locked": false,
+      "count": 1
+    },
+    "表示集合": {
+      "translation": "Representing Set",
+      "locked": false,
+      "count": 1
+    },
+    "轻量级的表示": {
+      "translation": "lightweight representation",
+      "locked": false,
+      "count": 1
+    },
+    "遍历": {
+      "translation": "iterating through",
+      "locked": false,
+      "count": 1
+    },
+    "子集": {
+      "translation": "subsets",
+      "locked": false,
+      "count": 1
+    },
+    "索引": {
+      "translation": "index",
+      "locked": false,
+      "count": 1
+    },
+    "seating arrangement": {
+      "translation": "座位安排",
+      "locked": false,
+      "count": 1
+    },
+    "constraint": {
+      "translation": "约束",
+      "locked": false,
+      "count": 1
+    },
+    "test case": {
+      "translation": "测试用例",
+      "locked": false,
+      "count": 1
+    },
+    "sample input": {
+      "translation": "示例输入",
+      "locked": false,
+      "count": 1
+    },
+    "sample output": {
+      "translation": "示例输出",
+      "locked": false,
+      "count": 1
+    },
+    "snowflake": {
+      "translation": "雪花",
+      "locked": false,
+      "count": 1
+    },
+    "arms": {
+      "translation": "臂",
+      "locked": false,
+      "count": 1
+    },
+    "identical": {
+      "translation": "相同",
+      "locked": false,
+      "count": 1
+    },
+    "possibly identical": {
+      "translation": "可能相同",
+      "locked": false,
+      "count": 1
+    },
+    "distinct": {
+      "translation": "互不相同",
+      "locked": false,
+      "count": 1
+    },
+    "clockwise": {
+      "translation": "顺时针",
+      "locked": false,
+      "count": 1
+    },
+    "counterclockwise": {
+      "translation": "逆时针",
+      "locked": false,
+      "count": 1
+    },
+    "time limit": {
+      "translation": "时间限制",
+      "locked": false,
+      "count": 1
+    },
+    "memory limit": {
+      "translation": "内存限制",
+      "locked": false,
+      "count": 1
+    }
+  }
+}

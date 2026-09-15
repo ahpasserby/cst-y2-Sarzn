@@ -1,0 +1,349 @@
+{
+  "terms": {
+    "ai系统": {
+      "translation": "AI系统",
+      "locked": false,
+      "count": 1
+    },
+    "哲学论证": {
+      "translation": "哲学论证",
+      "locked": false,
+      "count": 1
+    },
+    "批判性选择": {
+      "translation": "批判性选择",
+      "locked": false,
+      "count": 1
+    },
+    "不加审视的依赖": {
+      "translation": "不加审视的依赖",
+      "locked": false,
+      "count": 1
+    },
+    "刻板": {
+      "translation": "刻板",
+      "locked": false,
+      "count": 1
+    },
+    "philosophical problem": {
+      "translation": "哲学问题",
+      "locked": false,
+      "count": 1
+    },
+    "argument": {
+      "translation": "论证",
+      "locked": false,
+      "count": 1
+    },
+    "intellectual traditions": {
+      "translation": "思想传统",
+      "locked": false,
+      "count": 1
+    },
+    "thesis": {
+      "translation": "论点",
+      "locked": false,
+      "count": 1
+    },
+    "conceptual framing": {
+      "translation": "概念框架",
+      "locked": false,
+      "count": 1
+    },
+    "stereotype": {
+      "translation": "刻板印象",
+      "locked": false,
+      "count": 1
+    },
+    "selfhood": {
+      "translation": "自我",
+      "locked": false,
+      "count": 1
+    },
+    "virtue": {
+      "translation": "德性",
+      "locked": false,
+      "count": 1
+    },
+    "political order": {
+      "translation": "政治秩序",
+      "locked": false,
+      "count": 1
+    },
+    "truth": {
+      "translation": "真理",
+      "locked": false,
+      "count": 1
+    },
+    "llm": {
+      "translation": "LLM",
+      "locked": false,
+      "count": 1
+    },
+    "oecd": {
+      "translation": "OECD",
+      "locked": false,
+      "count": 1
+    },
+    "generative ai": {
+      "translation": "生成式AI",
+      "locked": false,
+      "count": 1
+    },
+    "cliché": {
+      "translation": "陈词滥调",
+      "locked": false,
+      "count": 1
+    },
+    "inherited categories": {
+      "translation": "继承的范畴",
+      "locked": false,
+      "count": 1
+    },
+    "critical revision": {
+      "translation": "批判性修订",
+      "locked": false,
+      "count": 1
+    },
+    "ghostwriter": {
+      "translation": "代笔",
+      "locked": false,
+      "count": 1
+    },
+    "disclosure": {
+      "translation": "披露声明",
+      "locked": false,
+      "count": 1
+    },
+    "assessment": {
+      "translation": "评估",
+      "locked": false,
+      "count": 1
+    },
+    "rubrics": {
+      "translation": "评分标准",
+      "locked": false,
+      "count": 1
+    },
+    "criterion": {
+      "translation": "标准",
+      "locked": false,
+      "count": 1
+    },
+    "excellent": {
+      "translation": "优秀",
+      "locked": false,
+      "count": 1
+    },
+    "good": {
+      "translation": "良好",
+      "locked": false,
+      "count": 1
+    },
+    "satisfactory": {
+      "translation": "合格",
+      "locked": false,
+      "count": 1
+    },
+    "needs": {
+      "translation": "需改进",
+      "locked": false,
+      "count": 1
+    },
+    "poor / incomplete": {
+      "translation": "差 / 不完整",
+      "locked": false,
+      "count": 1
+    },
+    "development": {
+      "translation": "发展",
+      "locked": false,
+      "count": 1
+    },
+    "thesis and argument": {
+      "translation": "论点与论证",
+      "locked": false,
+      "count": 1
+    },
+    "understanding": {
+      "translation": "理解",
+      "locked": false,
+      "count": 1
+    },
+    "critical reflection": {
+      "translation": "批判性反思",
+      "locked": false,
+      "count": 1
+    },
+    "china / asia relation": {
+      "translation": "中国/亚洲关联",
+      "locked": false,
+      "count": 1
+    },
+    "use of evidence and examples": {
+      "translation": "证据与例子的使用",
+      "locked": false,
+      "count": 1
+    },
+    "clarity and organisation": {
+      "translation": "清晰度与组织",
+      "locked": false,
+      "count": 1
+    },
+    "critical use of ai": {
+      "translation": "批判性使用AI",
+      "locked": false,
+      "count": 1
+    },
+    "presentation": {
+      "translation": "演示",
+      "locked": false,
+      "count": 1
+    },
+    "philosopher": {
+      "translation": "哲学家",
+      "locked": false,
+      "count": 1
+    },
+    "historical setting": {
+      "translation": "历史背景",
+      "locked": false,
+      "count": 1
+    },
+    "critical question": {
+      "translation": "批判性问题",
+      "locked": false,
+      "count": 1
+    },
+    "foreground": {
+      "translation": "突出",
+      "locked": false,
+      "count": 1
+    },
+    "overlook": {
+      "translation": "忽略",
+      "locked": false,
+      "count": 1
+    },
+    "non-western comparison": {
+      "translation": "非西方比较",
+      "locked": false,
+      "count": 1
+    },
+    "slides": {
+      "translation": "幻灯片",
+      "locked": false,
+      "count": 1
+    },
+    "homogeneous": {
+      "translation": "一致",
+      "locked": false,
+      "count": 1
+    },
+    "q&a": {
+      "translation": "问答环节",
+      "locked": false,
+      "count": 1
+    },
+    "group members": {
+      "translation": "小组成员",
+      "locked": false,
+      "count": 1
+    },
+    "free speech": {
+      "translation": "言论自由",
+      "locked": false,
+      "count": 1
+    },
+    "individual grade": {
+      "translation": "个人成绩",
+      "locked": false,
+      "count": 1
+    },
+    "shared slide grade": {
+      "translation": "共享幻灯片成绩",
+      "locked": false,
+      "count": 1
+    },
+    "coherence": {
+      "translation": "连贯性",
+      "locked": false,
+      "count": 1
+    },
+    "citation": {
+      "translation": "引用",
+      "locked": false,
+      "count": 1
+    },
+    "source use": {
+      "translation": "来源使用",
+      "locked": false,
+      "count": 1
+    },
+    "practical checklist": {
+      "translation": "实用检查清单",
+      "locked": false,
+      "count": 1
+    },
+    "guiding question": {
+      "translation": "指导性问题",
+      "locked": false,
+      "count": 1
+    },
+    "central argument": {
+      "translation": "核心论证",
+      "locked": false,
+      "count": 1
+    },
+    "objection": {
+      "translation": "反对意见",
+      "locked": false,
+      "count": 1
+    },
+    "blind spot": {
+      "translation": "盲点",
+      "locked": false,
+      "count": 1
+    },
+    "needs poor / incomplete": {
+      "translation": "需要差 / 不完整",
+      "locked": false,
+      "count": 1
+    },
+    "philosophical accuracy": {
+      "translation": "哲学准确性",
+      "locked": false,
+      "count": 1
+    },
+    "evidence, examples, and citations": {
+      "translation": "证据、例子和引用",
+      "locked": false,
+      "count": 1
+    },
+    "speaking and audience engagement": {
+      "translation": "演讲与听众互动",
+      "locked": false,
+      "count": 1
+    },
+    "q&a and response to disagreement": {
+      "translation": "问答与回应分歧",
+      "locked": false,
+      "count": 1
+    },
+    "slides: design and coherence": {
+      "translation": "幻灯片：设计与连贯性",
+      "locked": false,
+      "count": 1
+    },
+    "slides: function": {
+      "translation": "幻灯片：功能",
+      "locked": false,
+      "count": 1
+    },
+    "group coordination and timing": {
+      "translation": "小组协调与时间",
+      "locked": false,
+      "count": 1
+    }
+  }
+}

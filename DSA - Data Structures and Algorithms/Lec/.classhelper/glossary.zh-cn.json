@@ -1,0 +1,564 @@
+{
+  "terms": {
+    "data structures and algorithms": {
+      "translation": "数据结构与算法",
+      "locked": false,
+      "count": 1
+    },
+    "linked lists": {
+      "translation": "链表",
+      "locked": false,
+      "count": 1
+    },
+    "abstract data type (adt)": {
+      "translation": "抽象数据类型（ADT）",
+      "locked": false,
+      "count": 1
+    },
+    "list adt": {
+      "translation": "列表 ADT",
+      "locked": false,
+      "count": 1
+    },
+    "encapsulation": {
+      "translation": "封装",
+      "locked": false,
+      "count": 1
+    },
+    "methods": {
+      "translation": "方法",
+      "locked": false,
+      "count": 1
+    },
+    "data": {
+      "translation": "数据",
+      "locked": false,
+      "count": 1
+    },
+    "users of data": {
+      "translation": "数据的使用者",
+      "locked": false,
+      "count": 1
+    },
+    "data type": {
+      "translation": "数据类型",
+      "locked": false,
+      "count": 1
+    },
+    "operation": {
+      "translation": "操作",
+      "locked": false,
+      "count": 1
+    },
+    "integer": {
+      "translation": "整数",
+      "locked": false,
+      "count": 1
+    },
+    "string": {
+      "translation": "字符串",
+      "locked": false,
+      "count": 1
+    },
+    "array of characters": {
+      "translation": "字符数组",
+      "locked": false,
+      "count": 1
+    },
+    "adt": {
+      "translation": "ADT",
+      "locked": false,
+      "count": 1
+    },
+    "modular": {
+      "translation": "模块化",
+      "locked": false,
+      "count": 1
+    },
+    "information hiding": {
+      "translation": "信息隐藏",
+      "locked": false,
+      "count": 1
+    },
+    "rapid prototyping": {
+      "translation": "快速原型开发",
+      "locked": false,
+      "count": 1
+    },
+    "prototype": {
+      "translation": "原型",
+      "locked": false,
+      "count": 1
+    },
+    "debug": {
+      "translation": "调试",
+      "locked": false,
+      "count": 1
+    },
+    "reuse": {
+      "translation": "复用",
+      "locked": false,
+      "count": 1
+    },
+    "oop": {
+      "translation": "OOP",
+      "locked": false,
+      "count": 1
+    },
+    "class": {
+      "translation": "类",
+      "locked": false,
+      "count": 1
+    },
+    "member variable": {
+      "translation": "成员变量",
+      "locked": false,
+      "count": 1
+    },
+    "member function": {
+      "translation": "成员函数",
+      "locked": false,
+      "count": 1
+    },
+    "struct": {
+      "translation": "struct",
+      "locked": false,
+      "count": 1
+    },
+    "sequence": {
+      "translation": "序列",
+      "locked": false,
+      "count": 1
+    },
+    "element": {
+      "translation": "元素",
+      "locked": false,
+      "count": 1
+    },
+    "length of the list": {
+      "translation": "列表的长度",
+      "locked": false,
+      "count": 1
+    },
+    "first element": {
+      "translation": "第一个元素",
+      "locked": false,
+      "count": 1
+    },
+    "last element": {
+      "translation": "最后一个元素",
+      "locked": false,
+      "count": 1
+    },
+    "empty list": {
+      "translation": "空列表",
+      "locked": false,
+      "count": 1
+    },
+    "linearly ordered": {
+      "translation": "线性有序",
+      "locked": false,
+      "count": 1
+    },
+    "precedes": {
+      "translation": "在……之前",
+      "locked": false,
+      "count": 1
+    },
+    "follows": {
+      "translation": "在……之后",
+      "locked": false,
+      "count": 1
+    },
+    "double": {
+      "translation": "double",
+      "locked": false,
+      "count": 1
+    },
+    "implementation": {
+      "translation": "实现",
+      "locked": false,
+      "count": 1
+    },
+    "array-based": {
+      "translation": "基于数组",
+      "locked": false,
+      "count": 1
+    },
+    "linked list": {
+      "translation": "链表",
+      "locked": false,
+      "count": 1
+    },
+    "function": {
+      "translation": "函数",
+      "locked": false,
+      "count": 1
+    },
+    "array implementation": {
+      "translation": "数组实现",
+      "locked": false,
+      "count": 1
+    },
+    "empty": {
+      "translation": "空",
+      "locked": false,
+      "count": 1
+    },
+    "makeempty": {
+      "translation": "makeEmpty",
+      "locked": false,
+      "count": 1
+    },
+    "insert": {
+      "translation": "insert",
+      "locked": false,
+      "count": 1
+    },
+    "remove": {
+      "translation": "remove",
+      "locked": false,
+      "count": 1
+    },
+    "find": {
+      "translation": "find",
+      "locked": false,
+      "count": 1
+    },
+    "findkth": {
+      "translation": "findKth",
+      "locked": false,
+      "count": 1
+    },
+    "printlist": {
+      "translation": "printList",
+      "locked": false,
+      "count": 1
+    },
+    "position": {
+      "translation": "位置",
+      "locked": false,
+      "count": 1
+    },
+    "first occurrence": {
+      "translation": "第一次出现",
+      "locked": false,
+      "count": 1
+    },
+    "pros and cons": {
+      "translation": "优缺点",
+      "locked": false,
+      "count": 1
+    },
+    "pointer implementation": {
+      "translation": "指针实现",
+      "locked": false,
+      "count": 1
+    },
+    "node": {
+      "translation": "节点",
+      "locked": false,
+      "count": 1
+    },
+    "address": {
+      "translation": "地址",
+      "locked": false,
+      "count": 1
+    },
+    "contiguously": {
+      "translation": "连续地",
+      "locked": false,
+      "count": 1
+    },
+    "previous node": {
+      "translation": "前驱节点",
+      "locked": false,
+      "count": 1
+    },
+    "first node": {
+      "translation": "第一个节点",
+      "locked": false,
+      "count": 1
+    },
+    "head": {
+      "translation": "head",
+      "locked": false,
+      "count": 1
+    },
+    "linked list implementation": {
+      "translation": "链表实现",
+      "locked": false,
+      "count": 1
+    },
+    "pointer": {
+      "translation": "指针",
+      "locked": false,
+      "count": 1
+    },
+    "isempty": {
+      "translation": "IsEmpty",
+      "locked": false,
+      "count": 1
+    },
+    "insertnode": {
+      "translation": "InsertNode",
+      "locked": false,
+      "count": 1
+    },
+    "findnode": {
+      "translation": "FindNode",
+      "locked": false,
+      "count": 1
+    },
+    "index": {
+      "translation": "index",
+      "locked": false,
+      "count": 1
+    },
+    "null": {
+      "translation": "NULL",
+      "locked": false,
+      "count": 1
+    },
+    "list": {
+      "translation": "列表",
+      "locked": false,
+      "count": 1
+    },
+    "deletenode": {
+      "translation": "DeleteNode",
+      "locked": false,
+      "count": 1
+    },
+    "displaylist": {
+      "translation": "DisplayList",
+      "locked": false,
+      "count": 1
+    },
+    "destroylist": {
+      "translation": "DestroyList",
+      "locked": false,
+      "count": 1
+    },
+    "phead": {
+      "translation": "phead",
+      "locked": false,
+      "count": 1
+    },
+    "memory": {
+      "translation": "内存",
+      "locked": false,
+      "count": 1
+    },
+    "successor": {
+      "translation": "后继节点",
+      "locked": false,
+      "count": 1
+    },
+    "predecessor": {
+      "translation": "前驱节点",
+      "locked": false,
+      "count": 1
+    },
+    "allocate memory": {
+      "translation": "分配内存",
+      "locked": false,
+      "count": 1
+    },
+    "locate": {
+      "translation": "定位",
+      "locked": false,
+      "count": 1
+    },
+    "next pointer": {
+      "translation": "next 指针",
+      "locked": false,
+      "count": 1
+    },
+    "head pointer": {
+      "translation": "head 指针",
+      "locked": false,
+      "count": 1
+    },
+    "insert as the first node": {
+      "translation": "插入为第一个节点",
+      "locked": false,
+      "count": 1
+    },
+    "insert in the middle or at the end": {
+      "translation": "插入到中间或末尾",
+      "locked": false,
+      "count": 1
+    },
+    "middle": {
+      "translation": "中间",
+      "locked": false,
+      "count": 1
+    },
+    "end of the list": {
+      "translation": "列表末尾",
+      "locked": false,
+      "count": 1
+    },
+    "return null": {
+      "translation": "返回 null",
+      "locked": false,
+      "count": 1
+    },
+    "delete": {
+      "translation": "删除",
+      "locked": false,
+      "count": 1
+    },
+    "free the memory": {
+      "translation": "释放内存",
+      "locked": false,
+      "count": 1
+    },
+    "middle node": {
+      "translation": "中间节点",
+      "locked": false,
+      "count": 1
+    },
+    "end node": {
+      "translation": "末尾节点",
+      "locked": false,
+      "count": 1
+    },
+    "deleting the head": {
+      "translation": "删除头节点",
+      "locked": false,
+      "count": 1
+    },
+    "destroy": {
+      "translation": "销毁",
+      "locked": false,
+      "count": 1
+    },
+    "traverse the list": {
+      "translation": "遍历列表",
+      "locked": false,
+      "count": 1
+    },
+    "delete a node": {
+      "translation": "删除节点",
+      "locked": false,
+      "count": 1
+    },
+    "next node": {
+      "translation": "下一个节点",
+      "locked": false,
+      "count": 1
+    },
+    "output": {
+      "translation": "输出",
+      "locked": false,
+      "count": 1
+    },
+    "composite user-defined data type": {
+      "translation": "复合的用户自定义数据类型",
+      "locked": false,
+      "count": 1
+    },
+    "data items": {
+      "translation": "数据项",
+      "locked": false,
+      "count": 1
+    },
+    "declare": {
+      "translation": "声明",
+      "locked": false,
+      "count": 1
+    },
+    "variable": {
+      "translation": "变量",
+      "locked": false,
+      "count": 1
+    },
+    "pointer to pointer": {
+      "translation": "指向指针的指针",
+      "locked": false,
+      "count": 1
+    },
+    "pointer variable": {
+      "translation": "指针变量",
+      "locked": false,
+      "count": 1
+    },
+    "value": {
+      "translation": "值",
+      "locked": false,
+      "count": 1
+    },
+    "memory allocation": {
+      "translation": "内存分配",
+      "locked": false,
+      "count": 1
+    },
+    "free": {
+      "translation": "释放",
+      "locked": false,
+      "count": 1
+    },
+    "dynamic allocation": {
+      "translation": "动态分配",
+      "locked": false,
+      "count": 1
+    },
+    "malloc": {
+      "translation": "malloc",
+      "locked": false,
+      "count": 1
+    },
+    "void pointer": {
+      "translation": "void 指针",
+      "locked": false,
+      "count": 1
+    },
+    "null pointer": {
+      "translation": "空指针",
+      "locked": false,
+      "count": 1
+    },
+    "heap": {
+      "translation": "堆",
+      "locked": false,
+      "count": 1
+    },
+    "block of memory": {
+      "translation": "一块内存",
+      "locked": false,
+      "count": 1
+    },
+    "static memory allocation": {
+      "translation": "静态内存分配",
+      "locked": false,
+      "count": 1
+    },
+    "dynamic memory allocation": {
+      "translation": "动态内存分配",
+      "locked": false,
+      "count": 1
+    },
+    "free storage": {
+      "translation": "自由存储区",
+      "locked": false,
+      "count": 1
+    },
+    "stack": {
+      "translation": "栈",
+      "locked": false,
+      "count": 1
+    },
+    "last-in-first-out": {
+      "translation": "后进先出",
+      "locked": false,
+      "count": 1
+    },
+    "allocation function": {
+      "translation": "分配函数",
+      "locked": false,
+      "count": 1
+    }
+  }
+}

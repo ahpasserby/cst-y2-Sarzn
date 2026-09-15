@@ -1,0 +1,609 @@
+{
+  "terms": {
+    "outline": {
+      "translation": "大纲",
+      "locked": false,
+      "count": 1
+    },
+    "import a database": {
+      "translation": "导入数据库",
+      "locked": false,
+      "count": 1
+    },
+    "lab": {
+      "translation": "实验",
+      "locked": false,
+      "count": 1
+    },
+    "introduction to": {
+      "translation": "入门",
+      "locked": false,
+      "count": 1
+    },
+    "control panel": {
+      "translation": "控制面板",
+      "locked": false,
+      "count": 1
+    },
+    "controller": {
+      "translation": "控制器",
+      "locked": false,
+      "count": 1
+    },
+    "config": {
+      "translation": "配置",
+      "locked": false,
+      "count": 1
+    },
+    "component": {
+      "translation": "组件",
+      "locked": false,
+      "count": 1
+    },
+    "interface": {
+      "translation": "界面",
+      "locked": false,
+      "count": 1
+    },
+    "software package": {
+      "translation": "软件包",
+      "locked": false,
+      "count": 1
+    },
+    "web server": {
+      "translation": "Web 服务器",
+      "locked": false,
+      "count": 1
+    },
+    "database server": {
+      "translation": "数据库服务器",
+      "locked": false,
+      "count": 1
+    },
+    "ftp server": {
+      "translation": "FTP 服务器",
+      "locked": false,
+      "count": 1
+    },
+    "file transfer": {
+      "translation": "文件传输",
+      "locked": false,
+      "count": 1
+    },
+    "smtp server": {
+      "translation": "SMTP 服务器",
+      "locked": false,
+      "count": 1
+    },
+    "java environment": {
+      "translation": "Java 环境",
+      "locked": false,
+      "count": 1
+    },
+    "xampp control panel": {
+      "translation": "XAMPP 控制面板",
+      "locked": false,
+      "count": 1
+    },
+    "apache": {
+      "translation": "Apache",
+      "locked": false,
+      "count": 1
+    },
+    "mysql": {
+      "translation": "MySQL",
+      "locked": false,
+      "count": 1
+    },
+    "module": {
+      "translation": "模块",
+      "locked": false,
+      "count": 1
+    },
+    "service": {
+      "translation": "服务",
+      "locked": false,
+      "count": 1
+    },
+    "highlighted": {
+      "translation": "高亮显示",
+      "locked": false,
+      "count": 1
+    },
+    "server": {
+      "translation": "服务器",
+      "locked": false,
+      "count": 1
+    },
+    "admin button": {
+      "translation": "Admin 按钮",
+      "locked": false,
+      "count": 1
+    },
+    "apache web server": {
+      "translation": "Apache Web 服务器",
+      "locked": false,
+      "count": 1
+    },
+    "address bar": {
+      "translation": "地址栏",
+      "locked": false,
+      "count": 1
+    },
+    "browser": {
+      "translation": "浏览器",
+      "locked": false,
+      "count": 1
+    },
+    "local computer": {
+      "translation": "本地计算机",
+      "locked": false,
+      "count": 1
+    },
+    "hard drive": {
+      "translation": "硬盘",
+      "locked": false,
+      "count": 1
+    },
+    "double-click": {
+      "translation": "双击",
+      "locked": false,
+      "count": 1
+    },
+    "publish a webpage": {
+      "translation": "发布网页",
+      "locked": false,
+      "count": 1
+    },
+    "directory": {
+      "translation": "目录",
+      "locked": false,
+      "count": 1
+    },
+    "web browser": {
+      "translation": "浏览器",
+      "locked": false,
+      "count": 1
+    },
+    "localhost": {
+      "translation": "localhost",
+      "locked": false,
+      "count": 1
+    },
+    "htdocs": {
+      "translation": "htdocs",
+      "locked": false,
+      "count": 1
+    },
+    "system dialog": {
+      "translation": "系统对话框",
+      "locked": false,
+      "count": 1
+    },
+    "pop-up webpage": {
+      "translation": "弹出网页",
+      "locked": false,
+      "count": 1
+    },
+    "web application": {
+      "translation": "Web 应用",
+      "locked": false,
+      "count": 1
+    },
+    "graphical user interface": {
+      "translation": "图形用户界面",
+      "locked": false,
+      "count": 1
+    },
+    "access the database server": {
+      "translation": "访问数据库服务器",
+      "locked": false,
+      "count": 1
+    },
+    "hierarchical database list": {
+      "translation": "层级式数据库列表",
+      "locked": false,
+      "count": 1
+    },
+    "system information": {
+      "translation": "系统信息",
+      "locked": false,
+      "count": 1
+    },
+    "version": {
+      "translation": "版本",
+      "locked": false,
+      "count": 1
+    },
+    "database list": {
+      "translation": "数据库列表",
+      "locked": false,
+      "count": 1
+    },
+    "function": {
+      "translation": "函数",
+      "locked": false,
+      "count": 1
+    },
+    "procedure": {
+      "translation": "存储过程",
+      "locked": false,
+      "count": 1
+    },
+    "table": {
+      "translation": "表",
+      "locked": false,
+      "count": 1
+    },
+    "view": {
+      "translation": "视图",
+      "locked": false,
+      "count": 1
+    },
+    "relational database": {
+      "translation": "关系数据库",
+      "locked": false,
+      "count": 1
+    },
+    "menu bar": {
+      "translation": "菜单栏",
+      "locked": false,
+      "count": 1
+    },
+    "database": {
+      "translation": "数据库",
+      "locked": false,
+      "count": 1
+    },
+    "sql": {
+      "translation": "SQL",
+      "locked": false,
+      "count": 1
+    },
+    "user account": {
+      "translation": "用户账户",
+      "locked": false,
+      "count": 1
+    },
+    "administrator": {
+      "translation": "管理员",
+      "locked": false,
+      "count": 1
+    },
+    "export": {
+      "translation": "导出",
+      "locked": false,
+      "count": 1
+    },
+    "import": {
+      "translation": "导入",
+      "locked": false,
+      "count": 1
+    },
+    "settings": {
+      "translation": "设置",
+      "locked": false,
+      "count": 1
+    },
+    "sample database": {
+      "translation": "示例数据库",
+      "locked": false,
+      "count": 1
+    },
+    "source code": {
+      "translation": "源代码",
+      "locked": false,
+      "count": 1
+    },
+    "txt reader": {
+      "translation": "txt 阅读器",
+      "locked": false,
+      "count": 1
+    },
+    "file explorer": {
+      "translation": "文件资源管理器",
+      "locked": false,
+      "count": 1
+    },
+    "schema": {
+      "translation": "schema",
+      "locked": false,
+      "count": 1
+    },
+    "metadata": {
+      "translation": "元数据",
+      "locked": false,
+      "count": 1
+    },
+    "table structure": {
+      "translation": "表结构",
+      "locked": false,
+      "count": 1
+    },
+    "default value": {
+      "translation": "默认值",
+      "locked": false,
+      "count": 1
+    },
+    "type": {
+      "translation": "类型",
+      "locked": false,
+      "count": 1
+    },
+    "tuple": {
+      "translation": "元组",
+      "locked": false,
+      "count": 1
+    },
+    "attribute": {
+      "translation": "属性",
+      "locked": false,
+      "count": 1
+    },
+    "er diagram": {
+      "translation": "ER 图",
+      "locked": false,
+      "count": 1
+    },
+    "basic query": {
+      "translation": "基本查询",
+      "locked": false,
+      "count": 1
+    },
+    "predicate": {
+      "translation": "谓词",
+      "locked": false,
+      "count": 1
+    },
+    "exercises": {
+      "translation": "练习",
+      "locked": false,
+      "count": 1
+    },
+    "query": {
+      "translation": "查询",
+      "locked": false,
+      "count": 1
+    },
+    "query language": {
+      "translation": "查询语言",
+      "locked": false,
+      "count": 1
+    },
+    "data definition language": {
+      "translation": "数据定义语言",
+      "locked": false,
+      "count": 1
+    },
+    "gpa": {
+      "translation": "GPA",
+      "locked": false,
+      "count": 1
+    },
+    "retrieve data": {
+      "translation": "检索数据",
+      "locked": false,
+      "count": 1
+    },
+    "select": {
+      "translation": "选择",
+      "locked": false,
+      "count": 1
+    },
+    "xampp": {
+      "translation": "XAMPP",
+      "locked": false,
+      "count": 1
+    },
+    "phpmyadmin": {
+      "translation": "phpMyAdmin",
+      "locked": false,
+      "count": 1
+    },
+    "result": {
+      "translation": "结果",
+      "locked": false,
+      "count": 1
+    },
+    "delimiter": {
+      "translation": "分隔符",
+      "locked": false,
+      "count": 1
+    },
+    "semicolon": {
+      "translation": "分号",
+      "locked": false,
+      "count": 1
+    },
+    "select clause": {
+      "translation": "SELECT 子句",
+      "locked": false,
+      "count": 1
+    },
+    "from clause": {
+      "translation": "FROM 子句",
+      "locked": false,
+      "count": 1
+    },
+    "where clause": {
+      "translation": "WHERE 子句",
+      "locked": false,
+      "count": 1
+    },
+    "relation operator": {
+      "translation": "关系运算符",
+      "locked": false,
+      "count": 1
+    },
+    "term": {
+      "translation": "项",
+      "locked": false,
+      "count": 1
+    },
+    "arithmetic expression": {
+      "translation": "算术表达式",
+      "locked": false,
+      "count": 1
+    },
+    "constant": {
+      "translation": "常量",
+      "locked": false,
+      "count": 1
+    },
+    "boolean": {
+      "translation": "布尔值",
+      "locked": false,
+      "count": 1
+    },
+    "execute": {
+      "translation": "执行",
+      "locked": false,
+      "count": 1
+    },
+    "precedence": {
+      "translation": "优先级",
+      "locked": false,
+      "count": 1
+    },
+    "logical operator": {
+      "translation": "逻辑运算符",
+      "locked": false,
+      "count": 1
+    },
+    "syntax error": {
+      "translation": "语法错误",
+      "locked": false,
+      "count": 1
+    },
+    "propositional function": {
+      "translation": "命题函数",
+      "locked": false,
+      "count": 1
+    },
+    "predicate logic": {
+      "translation": "谓词逻辑",
+      "locked": false,
+      "count": 1
+    },
+    "case insensitive": {
+      "translation": "大小写不敏感",
+      "locked": false,
+      "count": 1
+    },
+    "key word": {
+      "translation": "关键字",
+      "locked": false,
+      "count": 1
+    },
+    "string constant": {
+      "translation": "字符串常量",
+      "locked": false,
+      "count": 1
+    },
+    "comparison": {
+      "translation": "比较",
+      "locked": false,
+      "count": 1
+    },
+    "quotation marks": {
+      "translation": "引号",
+      "locked": false,
+      "count": 1
+    },
+    "actor": {
+      "translation": "演员",
+      "locked": false,
+      "count": 1
+    },
+    "first name": {
+      "translation": "名字",
+      "locked": false,
+      "count": 1
+    },
+    "last name": {
+      "translation": "姓氏",
+      "locked": false,
+      "count": 1
+    },
+    "email": {
+      "translation": "email",
+      "locked": false,
+      "count": 1
+    },
+    "customer": {
+      "translation": "客户",
+      "locked": false,
+      "count": 1
+    },
+    "active": {
+      "translation": "active",
+      "locked": false,
+      "count": 1
+    },
+    "full name": {
+      "translation": "全名",
+      "locked": false,
+      "count": 1
+    },
+    "id": {
+      "translation": "id",
+      "locked": false,
+      "count": 1
+    },
+    "title": {
+      "translation": "title",
+      "locked": false,
+      "count": 1
+    },
+    "special features": {
+      "translation": "special features",
+      "locked": false,
+      "count": 1
+    },
+    "film": {
+      "translation": "电影",
+      "locked": false,
+      "count": 1
+    },
+    "replacement cost": {
+      "translation": "replacement cost",
+      "locked": false,
+      "count": 1
+    },
+    "rental rate": {
+      "translation": "rental rate",
+      "locked": false,
+      "count": 1
+    },
+    "payment": {
+      "translation": "付款",
+      "locked": false,
+      "count": 1
+    },
+    "amount": {
+      "translation": "金额",
+      "locked": false,
+      "count": 1
+    },
+    "txt file": {
+      "translation": "txt 文件",
+      "locked": false,
+      "count": 1
+    },
+    "student id": {
+      "translation": "学号",
+      "locked": false,
+      "count": 1
+    },
+    "submit": {
+      "translation": "提交",
+      "locked": false,
+      "count": 1
+    },
+    "ddl": {
+      "translation": "DDL",
+      "locked": false,
+      "count": 1
+    }
+  }
+}

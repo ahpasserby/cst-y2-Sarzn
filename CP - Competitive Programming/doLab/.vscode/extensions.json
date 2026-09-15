@@ -1,0 +1,18 @@
+{
+    // 打开此文件夹时,VS Code 会提示安装下列扩展
+    "recommendations": [
+        // ===== 必需:编译/运行/调试 =====
+        "ms-vscode.cpptools", // C/C++ (IntelliSense、cppbuild 任务、GDB 调试)
+        "formulahendry.code-runner", // Code Runner (运行按钮,走 executorMap)
+        "vadimcn.vscode-lldb", // CodeLLDB (macOS 上 F5 调试必需)
+        // ===== 外观:主题与字体 =====
+        "sdras.night-owl", // Night Owl 主题
+        "pkief.material-icon-theme", // 文件图标主题
+        // ===== 竞赛工具 =====
+        "divyanshuagrawal.competitive-programming-helper", // CPH,拉取样例并对拍
+        // ===== 编辑器增强 =====
+        "nmsmith89.tabout-x" // Tabout X,配置项前缀 taboutx.
+    ],
+    // 明确不推荐的扩展(可选,留空也行)
+    "unwantedRecommendations": []
+}

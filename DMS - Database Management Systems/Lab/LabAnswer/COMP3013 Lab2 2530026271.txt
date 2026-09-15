@@ -1,0 +1,123 @@
+localhost/sakila/actor/		http://localhost/phpmyadmin/index.php?route=/sql&db=sakila&table=actor&pos=0
+
+   正在显示第 0 -  2 行 (共 3 行, 查询花费 0.0001 秒。)
+
+
+SELECT * FROM actor WHERE first_name = "Russell";
+
+
+actor_id	first_name	last_name	last_update	
+112	RUSSELL	BACALL	2006-02-15 04:34:33	
+149	RUSSELL	TEMPLE	2006-02-15 04:34:33	
+183	RUSSELL	CLOSE	2006-02-15 04:34:33	
+
+----------------------------------------------------------------------------------
+localhost/sakila/actor/		http://localhost/phpmyadmin/index.php?route=/sql&db=sakila&table=actor&pos=0
+
+   正在显示第 0 -  0 行 (共 1 行, 查询花费 0.0001 秒。)
+
+
+SELECT * FROM actor WHERE first_name = "Russell" AND last_name = "Close";
+
+
+
+183	RUSSELL	CLOSE	2006-02-15 04:34:33	
+
+----------------------------------------------------------------------------------
+localhost/sakila/customer/		http://localhost/phpmyadmin/index.php?route=/sql&db=sakila&table=customer
+
+   正在显示第 0 -  0 行 (共 1 行, 查询花费 0.0005 秒。)
+
+
+SELECT email FROM customer WHERE first_name = "Harry" AND active = "0";
+
+
+
+HARRY.ARCE@sakilacustomer.org	
+
+
+----------------------------------------------------------------------------------
+localhost/sakila/actor/		http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=sakila&table=actor
+
+   正在显示第 0 -  0 行 (共 1 行, 查询花费 0.0001 秒。)
+
+
+SELECT first_name, last_name FROM actor WHERE actor_id = 99;
+
+
+
+JIM	MOSTEL	
+
+----------------------------------------------------------------------------------
+localhost/sakila/film/		http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=sakila&table=film
+
+   正在显示第 0 - 24 行 (共 182 行, 查询花费 0.0003 秒。)
+
+
+SELECT title, special_features FROM film WHERE replacement_cost < 20 AND rental_rate > 4.0;
+
+
+title	special_features	
+ACE GOLDFINGER	Trailers,Deleted Scenes	
+AIRPORT POLLOCK	Trailers	
+AMERICAN CIRCUS	Commentaries,Behind the Scenes	
+ANTHEM LUKE	Deleted Scenes,Behind the Scenes	
+APACHE DIVINE	Commentaries,Deleted Scenes,Behind the Scenes	
+APOCALYPSE FLAMINGOS	Trailers,Commentaries	
+ATTRACTION NEWTON	Trailers,Behind the Scenes	
+AUTUMN CROW	Trailers,Commentaries,Deleted Scenes,Behind the Sc...	
+BIRCH ANTITRUST	Trailers,Commentaries,Deleted Scenes	
+BIRD INDEPENDENCE	Commentaries,Behind the Scenes	
+BIRDS PERDITION	Trailers,Behind the Scenes	
+BOILED DARES	Trailers,Commentaries	
+BOOGIE AMELIE	Commentaries,Behind the Scenes	
+BORN SPINAL	Trailers,Commentaries,Deleted Scenes	
+BOWFINGER GABLES	Trailers,Deleted Scenes	
+BREAKFAST GOLDFINGER	Trailers,Commentaries,Deleted Scenes	
+BRIGHT ENCOUNTERS	Trailers	
+CALIFORNIA BIRDS	Trailers,Commentaries,Deleted Scenes	
+CANDLES GRAPES	Trailers,Deleted Scenes	
+CARIBBEAN LIBERTY	Commentaries,Deleted Scenes	
+CASPER DRAGONFLY	Trailers	
+CASUALTIES ENCINO	Trailers	
+CAT CONEHEADS	Commentaries,Deleted Scenes	
+CENTER DINOSAUR	Deleted Scenes	
+CHAMBER ITALIAN	Trailers	
+
+----------------------------------------------------------------------------------
+localhost/sakila/payment/		http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=sakila&table=payment
+
+   正在显示第 0 - 24 行 (共 59 行, 查询花费 0.0014 秒。)
+
+
+SELECT customer_id FROM payment WHERE payment_date >= '2005-05-25' AND payment_date < '2005-05-26' AND amount <= 3;
+
+
+customer_id	
+1	
+7	
+18	
+19	
+37	
+44	
+48	
+49	
+73	
+82	
+86	
+88	
+89	
+93	
+94	
+100	
+119	
+131	
+185	
+197	
+207	
+207	
+230	
+237	
+242	
+
+----------------------------------------------------------------------------------

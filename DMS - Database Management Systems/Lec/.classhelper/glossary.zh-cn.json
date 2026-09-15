@@ -1,0 +1,464 @@
+{
+  "terms": {
+    "entity-relationship model": {
+      "translation": "实体-联系模型",
+      "locked": false,
+      "count": 1
+    },
+    "modeling": {
+      "translation": "建模",
+      "locked": false,
+      "count": 1
+    },
+    "design process": {
+      "translation": "设计过程",
+      "locked": false,
+      "count": 1
+    },
+    "entity sets": {
+      "translation": "实体集",
+      "locked": false,
+      "count": 1
+    },
+    "attributes": {
+      "translation": "属性",
+      "locked": false,
+      "count": 1
+    },
+    "relationship sets": {
+      "translation": "联系集",
+      "locked": false,
+      "count": 1
+    },
+    "conceptual design": {
+      "translation": "概念设计",
+      "locked": false,
+      "count": 1
+    },
+    "er model": {
+      "translation": "ER 模型",
+      "locked": false,
+      "count": 1
+    },
+    "er diagram": {
+      "translation": "ER 图",
+      "locked": false,
+      "count": 1
+    },
+    "database design": {
+      "translation": "数据库设计",
+      "locked": false,
+      "count": 1
+    },
+    "graphic representation": {
+      "translation": "图形化表示",
+      "locked": false,
+      "count": 1
+    },
+    "product": {
+      "translation": "产品",
+      "locked": false,
+      "count": 1
+    },
+    "company": {
+      "translation": "公司",
+      "locked": false,
+      "count": 1
+    },
+    "relational database design": {
+      "translation": "关系数据库设计",
+      "locked": false,
+      "count": 1
+    },
+    "database management system": {
+      "translation": "数据库管理系统",
+      "locked": false,
+      "count": 1
+    },
+    "redundancy": {
+      "translation": "冗余",
+      "locked": false,
+      "count": 1
+    },
+    "logical design": {
+      "translation": "逻辑设计",
+      "locked": false,
+      "count": 1
+    },
+    "optimization": {
+      "translation": "优化",
+      "locked": false,
+      "count": 1
+    },
+    "physical design": {
+      "translation": "物理设计",
+      "locked": false,
+      "count": 1
+    },
+    "implementation data model": {
+      "translation": "实现数据模型",
+      "locked": false,
+      "count": 1
+    },
+    "relational data model": {
+      "translation": "关系数据模型",
+      "locked": false,
+      "count": 1
+    },
+    "relational schema": {
+      "translation": "关系模式",
+      "locked": false,
+      "count": 1
+    },
+    "logical view": {
+      "translation": "逻辑视图",
+      "locked": false,
+      "count": 1
+    },
+    "logical-design phase": {
+      "translation": "逻辑设计阶段",
+      "locked": false,
+      "count": 1
+    },
+    "relational schemas": {
+      "translation": "关系模式",
+      "locked": false,
+      "count": 1
+    },
+    "redundancies": {
+      "translation": "冗余",
+      "locked": false,
+      "count": 1
+    },
+    "functional dependencies": {
+      "translation": "函数依赖",
+      "locked": false,
+      "count": 1
+    },
+    "normal forms": {
+      "translation": "范式",
+      "locked": false,
+      "count": 1
+    },
+    "physical-design phase": {
+      "translation": "物理设计阶段",
+      "locked": false,
+      "count": 1
+    },
+    "data definition language": {
+      "translation": "数据定义语言",
+      "locked": false,
+      "count": 1
+    },
+    "sql": {
+      "translation": "SQL",
+      "locked": false,
+      "count": 1
+    },
+    "implementation": {
+      "translation": "实现",
+      "locked": false,
+      "count": 1
+    },
+    "load data": {
+      "translation": "加载数据",
+      "locked": false,
+      "count": 1
+    },
+    "database applications": {
+      "translation": "数据库应用程序",
+      "locked": false,
+      "count": 1
+    },
+    "entity": {
+      "translation": "实体",
+      "locked": false,
+      "count": 1
+    },
+    "entity set": {
+      "translation": "实体集",
+      "locked": false,
+      "count": 1
+    },
+    "relationship set": {
+      "translation": "联系集",
+      "locked": false,
+      "count": 1
+    },
+    "attribute": {
+      "translation": "属性",
+      "locked": false,
+      "count": 1
+    },
+    "property": {
+      "translation": "性质",
+      "locked": false,
+      "count": 1
+    },
+    "gpa": {
+      "translation": "GPA",
+      "locked": false,
+      "count": 1
+    },
+    "domain": {
+      "translation": "域",
+      "locked": false,
+      "count": 1
+    },
+    "value": {
+      "translation": "取值",
+      "locked": false,
+      "count": 1
+    },
+    "keys": {
+      "translation": "键",
+      "locked": false,
+      "count": 1
+    },
+    "key": {
+      "translation": "键",
+      "locked": false,
+      "count": 1
+    },
+    "major": {
+      "translation": "major",
+      "locked": false,
+      "count": 1
+    },
+    "name": {
+      "translation": "name",
+      "locked": false,
+      "count": 1
+    },
+    "student": {
+      "translation": "Student",
+      "locked": false,
+      "count": 1
+    },
+    "id": {
+      "translation": "ID",
+      "locked": false,
+      "count": 1
+    },
+    "year": {
+      "translation": "年级",
+      "locked": false,
+      "count": 1
+    },
+    "identical": {
+      "translation": "相同",
+      "locked": false,
+      "count": 1
+    },
+    "uniquely identify": {
+      "translation": "唯一标识",
+      "locked": false,
+      "count": 1
+    },
+    "multi-valued attribute": {
+      "translation": "多值属性",
+      "locked": false,
+      "count": 1
+    },
+    "double ellipses": {
+      "translation": "双椭圆",
+      "locked": false,
+      "count": 1
+    },
+    "composite attribute": {
+      "translation": "复合属性",
+      "locked": false,
+      "count": 1
+    },
+    "atomic": {
+      "translation": "原子的",
+      "locked": false,
+      "count": 1
+    },
+    "course code": {
+      "translation": "课程代码",
+      "locked": false,
+      "count": 1
+    },
+    "course number": {
+      "translation": "课程编号",
+      "locked": false,
+      "count": 1
+    },
+    "computer science": {
+      "translation": "计算机科学",
+      "locked": false,
+      "count": 1
+    },
+    "offering unit": {
+      "translation": "开课单位",
+      "locked": false,
+      "count": 1
+    },
+    "relationship": {
+      "translation": "联系",
+      "locked": false,
+      "count": 1
+    },
+    "borrow": {
+      "translation": "borrow",
+      "locked": false,
+      "count": 1
+    },
+    "association": {
+      "translation": "关联",
+      "locked": false,
+      "count": 1
+    },
+    "tuple": {
+      "translation": "元组",
+      "locked": false,
+      "count": 1
+    },
+    "diamond": {
+      "translation": "菱形",
+      "locked": false,
+      "count": 1
+    },
+    "model": {
+      "translation": "建模",
+      "locked": false,
+      "count": 1
+    },
+    "multi-ary relationship": {
+      "translation": "多元联系",
+      "locked": false,
+      "count": 1
+    },
+    "n-ary": {
+      "translation": "n 元",
+      "locked": false,
+      "count": 1
+    },
+    "degree of the relationship": {
+      "translation": "联系的度",
+      "locked": false,
+      "count": 1
+    },
+    "binary": {
+      "translation": "二元",
+      "locked": false,
+      "count": 1
+    },
+    "ternary": {
+      "translation": "三元",
+      "locked": false,
+      "count": 1
+    },
+    "positive integer": {
+      "translation": "正整数",
+      "locked": false,
+      "count": 1
+    },
+    "ternary relationship": {
+      "translation": "三元联系",
+      "locked": false,
+      "count": 1
+    },
+    "enroll": {
+      "translation": "选修",
+      "locked": false,
+      "count": 1
+    },
+    "roles": {
+      "translation": "角色",
+      "locked": false,
+      "count": 1
+    },
+    "successor": {
+      "translation": "后继",
+      "locked": false,
+      "count": 1
+    },
+    "predecessor": {
+      "translation": "前驱",
+      "locked": false,
+      "count": 1
+    },
+    "pre_req": {
+      "translation": "先修",
+      "locked": false,
+      "count": 1
+    },
+    "prerequisite": {
+      "translation": "先修课程",
+      "locked": false,
+      "count": 1
+    },
+    "derived attribute": {
+      "translation": "派生属性",
+      "locked": false,
+      "count": 1
+    },
+    "dashed ellipse": {
+      "translation": "虚线椭圆",
+      "locked": false,
+      "count": 1
+    },
+    "duration": {
+      "translation": "duration",
+      "locked": false,
+      "count": 1
+    },
+    "date of borrow": {
+      "translation": "borrow 的日期",
+      "locked": false,
+      "count": 1
+    },
+    "date of return": {
+      "translation": "归还日期",
+      "locked": false,
+      "count": 1
+    },
+    "component": {
+      "translation": "组件",
+      "locked": false,
+      "count": 1
+    },
+    "designer": {
+      "translation": "设计者",
+      "locked": false,
+      "count": 1
+    },
+    "program": {
+      "translation": "专业",
+      "locked": false,
+      "count": 1
+    },
+    "program code": {
+      "translation": "专业代码",
+      "locked": false,
+      "count": 1
+    },
+    "program name": {
+      "translation": "专业名称",
+      "locked": false,
+      "count": 1
+    },
+    "division": {
+      "translation": "学院",
+      "locked": false,
+      "count": 1
+    },
+    "program director": {
+      "translation": "专业负责人",
+      "locked": false,
+      "count": 1
+    },
+    "instructor": {
+      "translation": "教师",
+      "locked": false,
+      "count": 1
+    },
+    "offer": {
+      "translation": "开设",
+      "locked": false,
+      "count": 1
+    }
+  }
+}

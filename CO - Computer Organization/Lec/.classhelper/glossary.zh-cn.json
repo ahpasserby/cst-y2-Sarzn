@@ -1,0 +1,949 @@
+{
+  "terms": {
+    "computer organization": {
+      "translation": "计算机组成原理",
+      "locked": false,
+      "count": 1
+    },
+    "computation": {
+      "translation": "计算",
+      "locked": false,
+      "count": 1
+    },
+    "levels of abstraction": {
+      "translation": "抽象层次",
+      "locked": false,
+      "count": 1
+    },
+    "turing machine": {
+      "translation": "图灵机",
+      "locked": false,
+      "count": 1
+    },
+    "von neumann architecture": {
+      "translation": "冯·诺依曼体系结构",
+      "locked": false,
+      "count": 1
+    },
+    "assessment": {
+      "translation": "考核",
+      "locked": false,
+      "count": 1
+    },
+    "assignment": {
+      "translation": "作业",
+      "locked": false,
+      "count": 1
+    },
+    "labs": {
+      "translation": "实验",
+      "locked": false,
+      "count": 1
+    },
+    "project": {
+      "translation": "项目",
+      "locked": false,
+      "count": 1
+    },
+    "midterm": {
+      "translation": "期中考试",
+      "locked": false,
+      "count": 1
+    },
+    "final exam": {
+      "translation": "期末考试",
+      "locked": false,
+      "count": 1
+    },
+    "digital logic": {
+      "translation": "数字逻辑",
+      "locked": false,
+      "count": 1
+    },
+    "data representation": {
+      "translation": "数据表示",
+      "locked": false,
+      "count": 1
+    },
+    "combinational circuit": {
+      "translation": "组合电路",
+      "locked": false,
+      "count": 1
+    },
+    "sequential circuit": {
+      "translation": "时序电路",
+      "locked": false,
+      "count": 1
+    },
+    "microarchitecture": {
+      "translation": "微架构",
+      "locked": false,
+      "count": 1
+    },
+    "instruction set architecture": {
+      "translation": "指令集架构",
+      "locked": false,
+      "count": 1
+    },
+    "assembly language": {
+      "translation": "汇编语言",
+      "locked": false,
+      "count": 1
+    },
+    "memory system": {
+      "translation": "存储系统",
+      "locked": false,
+      "count": 1
+    },
+    "i/o system": {
+      "translation": "I/O系统",
+      "locked": false,
+      "count": 1
+    },
+    "parallelism architecture": {
+      "translation": "并行架构",
+      "locked": false,
+      "count": 1
+    },
+    "downgrade": {
+      "translation": "降级",
+      "locked": false,
+      "count": 1
+    },
+    "letter grade": {
+      "translation": "字母等级",
+      "locked": false,
+      "count": 1
+    },
+    "turing completeness": {
+      "translation": "图灵完备性",
+      "locked": false,
+      "count": 1
+    },
+    "general purpose": {
+      "translation": "通用",
+      "locked": false,
+      "count": 1
+    },
+    "computing machine": {
+      "translation": "计算机器",
+      "locked": false,
+      "count": 1
+    },
+    "step-by-step": {
+      "translation": "逐步",
+      "locked": false,
+      "count": 1
+    },
+    "gcd": {
+      "translation": "GCD",
+      "locked": false,
+      "count": 1
+    },
+    "euclid's method": {
+      "translation": "欧几里得算法",
+      "locked": false,
+      "count": 1
+    },
+    "question specification": {
+      "translation": "问题规格说明",
+      "locked": false,
+      "count": 1
+    },
+    "cpu": {
+      "translation": "中央处理器",
+      "locked": false,
+      "count": 1
+    },
+    "gpu": {
+      "translation": "图形处理器",
+      "locked": false,
+      "count": 1
+    },
+    "memory": {
+      "translation": "内存",
+      "locked": false,
+      "count": 1
+    },
+    "hard disk": {
+      "translation": "硬盘",
+      "locked": false,
+      "count": 1
+    },
+    "solid-state disk": {
+      "translation": "固态硬盘",
+      "locked": false,
+      "count": 1
+    },
+    "usb stick": {
+      "translation": "U盘",
+      "locked": false,
+      "count": 1
+    },
+    "keyboard": {
+      "translation": "键盘",
+      "locked": false,
+      "count": 1
+    },
+    "camera": {
+      "translation": "摄像头",
+      "locked": false,
+      "count": 1
+    },
+    "scanner": {
+      "translation": "扫描仪",
+      "locked": false,
+      "count": 1
+    },
+    "micro-phone": {
+      "translation": "麦克风",
+      "locked": false,
+      "count": 1
+    },
+    "screen": {
+      "translation": "屏幕",
+      "locked": false,
+      "count": 1
+    },
+    "projector": {
+      "translation": "投影仪",
+      "locked": false,
+      "count": 1
+    },
+    "printer": {
+      "translation": "打印机",
+      "locked": false,
+      "count": 1
+    },
+    "speaker": {
+      "translation": "扬声器",
+      "locked": false,
+      "count": 1
+    },
+    "bus": {
+      "translation": "总线",
+      "locked": false,
+      "count": 1
+    },
+    "mother board": {
+      "translation": "主板",
+      "locked": false,
+      "count": 1
+    },
+    "computer generations": {
+      "translation": "计算机代际",
+      "locked": false,
+      "count": 1
+    },
+    "mechanical calculating machines": {
+      "translation": "机械计算器",
+      "locked": false,
+      "count": 1
+    },
+    "vacuum tube computers": {
+      "translation": "真空管计算机",
+      "locked": false,
+      "count": 1
+    },
+    "transistor computers": {
+      "translation": "晶体管计算机",
+      "locked": false,
+      "count": 1
+    },
+    "integrated circuit (ic) computers": {
+      "translation": "集成电路（IC）计算机",
+      "locked": false,
+      "count": 1
+    },
+    "very-large-scale integration (vlsi) computers": {
+      "translation": "超大规模集成（VLSI）计算机",
+      "locked": false,
+      "count": 1
+    },
+    "symbolic logic": {
+      "translation": "符号逻辑",
+      "locked": false,
+      "count": 1
+    },
+    "recursion theory": {
+      "translation": "递归论",
+      "locked": false,
+      "count": 1
+    },
+    "tm": {
+      "translation": "图灵机",
+      "locked": false,
+      "count": 1
+    },
+    "theory of computation": {
+      "translation": "计算理论",
+      "locked": false,
+      "count": 1
+    },
+    "tape": {
+      "translation": "纸带",
+      "locked": false,
+      "count": 1
+    },
+    "current symbol": {
+      "translation": "当前符号",
+      "locked": false,
+      "count": 1
+    },
+    "state": {
+      "translation": "状态",
+      "locked": false,
+      "count": 1
+    },
+    "move right": {
+      "translation": "右移",
+      "locked": false,
+      "count": 1
+    },
+    "next state": {
+      "translation": "下一状态",
+      "locked": false,
+      "count": 1
+    },
+    "halt and accept": {
+      "translation": "停机并接受",
+      "locked": false,
+      "count": 1
+    },
+    "halt and reject": {
+      "translation": "停机并拒绝",
+      "locked": false,
+      "count": 1
+    },
+    "instruction table": {
+      "translation": "指令表",
+      "locked": false,
+      "count": 1
+    },
+    "r/w head": {
+      "translation": "读写头",
+      "locked": false,
+      "count": 1
+    },
+    "register": {
+      "translation": "寄存器",
+      "locked": false,
+      "count": 1
+    },
+    "universal turing machines": {
+      "translation": "通用图灵机",
+      "locked": false,
+      "count": 1
+    },
+    "church-turing thesis": {
+      "translation": "丘奇-图灵论题",
+      "locked": false,
+      "count": 1
+    },
+    "stored-program architecture": {
+      "translation": "存储程序体系结构",
+      "locked": false,
+      "count": 1
+    },
+    "central processing unit": {
+      "translation": "中央处理器",
+      "locked": false,
+      "count": 1
+    },
+    "control unit": {
+      "translation": "控制单元",
+      "locked": false,
+      "count": 1
+    },
+    "arithmetic logic unit": {
+      "translation": "算术逻辑单元",
+      "locked": false,
+      "count": 1
+    },
+    "main memory": {
+      "translation": "主内存",
+      "locked": false,
+      "count": 1
+    },
+    "von neumann bottleneck": {
+      "translation": "冯·诺依曼瓶颈",
+      "locked": false,
+      "count": 1
+    },
+    "fetch-decode-execute cycle": {
+      "translation": "取指-译码-执行周期",
+      "locked": false,
+      "count": 1
+    },
+    "instruction": {
+      "translation": "指令",
+      "locked": false,
+      "count": 1
+    },
+    "operators": {
+      "translation": "操作符",
+      "locked": false,
+      "count": 1
+    },
+    "operands": {
+      "translation": "操作数",
+      "locked": false,
+      "count": 1
+    },
+    "alu": {
+      "translation": "ALU",
+      "locked": false,
+      "count": 1
+    },
+    "registers": {
+      "translation": "寄存器",
+      "locked": false,
+      "count": 1
+    },
+    "ai": {
+      "translation": "人工智能",
+      "locked": false,
+      "count": 1
+    },
+    "boolean algebra": {
+      "translation": "布尔代数",
+      "locked": false,
+      "count": 1
+    },
+    "binary computers": {
+      "translation": "二进制计算机",
+      "locked": false,
+      "count": 1
+    },
+    "revision": {
+      "translation": "复习",
+      "locked": false,
+      "count": 1
+    },
+    "truth table": {
+      "translation": "真值表",
+      "locked": false,
+      "count": 1
+    },
+    "identity": {
+      "translation": "恒等式",
+      "locked": false,
+      "count": 1
+    },
+    "information manipulation": {
+      "translation": "信息处理",
+      "locked": false,
+      "count": 1
+    },
+    "algebra": {
+      "translation": "代数",
+      "locked": false,
+      "count": 1
+    },
+    "natural numbers": {
+      "translation": "自然数",
+      "locked": false,
+      "count": 1
+    },
+    "manipulating rules": {
+      "translation": "操作规则",
+      "locked": false,
+      "count": 1
+    },
+    "precedence": {
+      "translation": "优先级",
+      "locked": false,
+      "count": 1
+    },
+    "complement": {
+      "translation": "补运算",
+      "locked": false,
+      "count": 1
+    },
+    "multiplication": {
+      "translation": "乘法",
+      "locked": false,
+      "count": 1
+    },
+    "addition": {
+      "translation": "加法",
+      "locked": false,
+      "count": 1
+    },
+    "parentheses": {
+      "translation": "括号",
+      "locked": false,
+      "count": 1
+    },
+    "variable": {
+      "translation": "变量",
+      "locked": false,
+      "count": 1
+    },
+    "arbitrary number": {
+      "translation": "任意数",
+      "locked": false,
+      "count": 1
+    },
+    "element": {
+      "translation": "元素",
+      "locked": false,
+      "count": 1
+    },
+    "variable names": {
+      "translation": "变量名",
+      "locked": false,
+      "count": 1
+    },
+    "boolean function": {
+      "translation": "布尔函数",
+      "locked": false,
+      "count": 1
+    },
+    "boolean expression": {
+      "translation": "布尔表达式",
+      "locked": false,
+      "count": 1
+    },
+    "boolean variable": {
+      "translation": "布尔变量",
+      "locked": false,
+      "count": 1
+    },
+    "intermediate results": {
+      "translation": "中间结果",
+      "locked": false,
+      "count": 1
+    },
+    "combination": {
+      "translation": "组合",
+      "locked": false,
+      "count": 1
+    },
+    "property": {
+      "translation": "性质",
+      "locked": false,
+      "count": 1
+    },
+    "row": {
+      "translation": "行",
+      "locked": false,
+      "count": 1
+    },
+    "simplification": {
+      "translation": "化简",
+      "locked": false,
+      "count": 1
+    },
+    "identity law": {
+      "translation": "恒等律",
+      "locked": false,
+      "count": 1
+    },
+    "idempotent law": {
+      "translation": "幂等律",
+      "locked": false,
+      "count": 1
+    },
+    "domination law": {
+      "translation": "支配律",
+      "locked": false,
+      "count": 1
+    },
+    "double complement law": {
+      "translation": "双重补运算律",
+      "locked": false,
+      "count": 1
+    },
+    "identical": {
+      "translation": "相同",
+      "locked": false,
+      "count": 1
+    },
+    "complex": {
+      "translation": "复杂",
+      "locked": false,
+      "count": 1
+    },
+    "application purpose": {
+      "translation": "应用目的",
+      "locked": false,
+      "count": 1
+    },
+    "calculating": {
+      "translation": "计算",
+      "locked": false,
+      "count": 1
+    },
+    "cheaper": {
+      "translation": "成本更低",
+      "locked": false,
+      "count": 1
+    },
+    "manipulation": {
+      "translation": "变换",
+      "locked": false,
+      "count": 1
+    },
+    "called": {
+      "translation": "称为",
+      "locked": false,
+      "count": 1
+    },
+    "commutative law": {
+      "translation": "交换律",
+      "locked": false,
+      "count": 1
+    },
+    "associative law": {
+      "translation": "结合律",
+      "locked": false,
+      "count": 1
+    },
+    "de morgan's law": {
+      "translation": "德摩根定律",
+      "locked": false,
+      "count": 1
+    },
+    "distributive law": {
+      "translation": "分配律",
+      "locked": false,
+      "count": 1
+    },
+    "absorption law": {
+      "translation": "吸收律",
+      "locked": false,
+      "count": 1
+    },
+    "unit property": {
+      "translation": "单位性质",
+      "locked": false,
+      "count": 1
+    },
+    "zero property": {
+      "translation": "零性质",
+      "locked": false,
+      "count": 1
+    },
+    "distribution": {
+      "translation": "分配律",
+      "locked": false,
+      "count": 1
+    },
+    "commutative": {
+      "translation": "交换律",
+      "locked": false,
+      "count": 1
+    },
+    "associative": {
+      "translation": "结合律",
+      "locked": false,
+      "count": 1
+    },
+    "unit": {
+      "translation": "单位元",
+      "locked": false,
+      "count": 1
+    },
+    "absorption": {
+      "translation": "吸收律",
+      "locked": false,
+      "count": 1
+    },
+    "isomorphic": {
+      "translation": "同构",
+      "locked": false,
+      "count": 1
+    },
+    "propositional logic": {
+      "translation": "命题逻辑",
+      "locked": false,
+      "count": 1
+    },
+    "constant": {
+      "translation": "常量",
+      "locked": false,
+      "count": 1
+    },
+    "operator": {
+      "translation": "运算符",
+      "locked": false,
+      "count": 1
+    },
+    "specification": {
+      "translation": "规格说明",
+      "locked": false,
+      "count": 1
+    },
+    "variables": {
+      "translation": "变量",
+      "locked": false,
+      "count": 1
+    },
+    "assignments": {
+      "translation": "赋值",
+      "locked": false,
+      "count": 1
+    },
+    "expected outcome": {
+      "translation": "预期结果",
+      "locked": false,
+      "count": 1
+    },
+    "minimize": {
+      "translation": "最小化",
+      "locked": false,
+      "count": 1
+    },
+    "electronic devices": {
+      "translation": "电子设备",
+      "locked": false,
+      "count": 1
+    },
+    "enumerate": {
+      "translation": "列举",
+      "locked": false,
+      "count": 1
+    },
+    "academic dishonesty": {
+      "translation": "学术不端行为",
+      "locked": false,
+      "count": 1
+    },
+    "total score": {
+      "translation": "总成绩",
+      "locked": false,
+      "count": 1
+    },
+    "conjunctive normal form": {
+      "translation": "合取范式",
+      "locked": false,
+      "count": 1
+    },
+    "disjunctive normal form": {
+      "translation": "析取范式",
+      "locked": false,
+      "count": 1
+    },
+    "normal form": {
+      "translation": "范式",
+      "locked": false,
+      "count": 1
+    },
+    "product of sum": {
+      "translation": "和的积",
+      "locked": false,
+      "count": 1
+    },
+    "sum of products": {
+      "translation": "积的和",
+      "locked": false,
+      "count": 1
+    },
+    "literal": {
+      "translation": "文字",
+      "locked": false,
+      "count": 1
+    },
+    "min-term": {
+      "translation": "最小项",
+      "locked": false,
+      "count": 1
+    },
+    "max-term": {
+      "translation": "最大项",
+      "locked": false,
+      "count": 1
+    },
+    "cnf": {
+      "translation": "CNF",
+      "locked": false,
+      "count": 1
+    },
+    "dnf": {
+      "translation": "DNF",
+      "locked": false,
+      "count": 1
+    },
+    "max-terms": {
+      "translation": "最大项",
+      "locked": false,
+      "count": 1
+    },
+    "min-terms": {
+      "translation": "最小项",
+      "locked": false,
+      "count": 1
+    },
+    "minimization": {
+      "translation": "最小化",
+      "locked": false,
+      "count": 1
+    },
+    "boolean identities": {
+      "translation": "布尔恒等式",
+      "locked": false,
+      "count": 1
+    },
+    "identity laws": {
+      "translation": "恒等定律",
+      "locked": false,
+      "count": 1
+    },
+    "karnaugh map": {
+      "translation": "卡诺图",
+      "locked": false,
+      "count": 1
+    },
+    "reversed distributive law": {
+      "translation": "反向分配律",
+      "locked": false,
+      "count": 1
+    },
+    "neighbors": {
+      "translation": "相邻",
+      "locked": false,
+      "count": 1
+    },
+    "electronic implementation": {
+      "translation": "电子实现",
+      "locked": false,
+      "count": 1
+    },
+    "electrical switch circuits": {
+      "translation": "电气开关电路",
+      "locked": false,
+      "count": 1
+    },
+    "switch": {
+      "translation": "开关",
+      "locked": false,
+      "count": 1
+    },
+    "open": {
+      "translation": "开",
+      "locked": false,
+      "count": 1
+    },
+    "close": {
+      "translation": "关",
+      "locked": false,
+      "count": 1
+    },
+    "light": {
+      "translation": "灯",
+      "locked": false,
+      "count": 1
+    },
+    "on": {
+      "translation": "亮",
+      "locked": false,
+      "count": 1
+    },
+    "off": {
+      "translation": "灭",
+      "locked": false,
+      "count": 1
+    },
+    "transistors": {
+      "translation": "晶体管",
+      "locked": false,
+      "count": 1
+    },
+    "building blocks": {
+      "translation": "构建块",
+      "locked": false,
+      "count": 1
+    },
+    "logical gates": {
+      "translation": "逻辑门",
+      "locked": false,
+      "count": 1
+    },
+    "wires": {
+      "translation": "导线",
+      "locked": false,
+      "count": 1
+    },
+    "logical circuits": {
+      "translation": "逻辑电路",
+      "locked": false,
+      "count": 1
+    },
+    "not gate": {
+      "translation": "非门",
+      "locked": false,
+      "count": 1
+    },
+    "nor gate": {
+      "translation": "或非门",
+      "locked": false,
+      "count": 1
+    },
+    "transistor": {
+      "translation": "晶体管",
+      "locked": false,
+      "count": 1
+    },
+    "electronic signals": {
+      "translation": "电子信号",
+      "locked": false,
+      "count": 1
+    },
+    "complementary metal-oxide semiconductor (cmos)": {
+      "translation": "互补金属氧化物半导体（CMOS）",
+      "locked": false,
+      "count": 1
+    },
+    "pins": {
+      "translation": "引脚",
+      "locked": false,
+      "count": 1
+    },
+    "gate": {
+      "translation": "栅极",
+      "locked": false,
+      "count": 1
+    },
+    "source": {
+      "translation": "源极",
+      "locked": false,
+      "count": 1
+    },
+    "drain": {
+      "translation": "漏极",
+      "locked": false,
+      "count": 1
+    },
+    "n-type": {
+      "translation": "N型",
+      "locked": false,
+      "count": 1
+    },
+    "p-type": {
+      "translation": "P型",
+      "locked": false,
+      "count": 1
+    },
+    "closed": {
+      "translation": "截止",
+      "locked": false,
+      "count": 1
+    },
+    "complement operator": {
+      "translation": "补运算算子",
+      "locked": false,
+      "count": 1
+    },
+    "implementation": {
+      "translation": "实现",
+      "locked": false,
+      "count": 1
+    },
+    "logical symbol": {
+      "translation": "逻辑符号",
+      "locked": false,
+      "count": 1
+    }
+  }
+}
