@@ -1,0 +1,74 @@
+{
+  "terms": {
+    "template": {
+      "translation": "模板",
+      "locked": false,
+      "count": 1
+    },
+    "implement": {
+      "translation": "实现",
+      "locked": false,
+      "count": 1
+    },
+    "function": {
+      "translation": "函数",
+      "locked": false,
+      "count": 1
+    },
+    "comment": {
+      "translation": "注释",
+      "locked": false,
+      "count": 1
+    },
+    "implementation logic": {
+      "translation": "实现逻辑",
+      "locked": false,
+      "count": 1
+    },
+    "algorithm": {
+      "translation": "算法",
+      "locked": false,
+      "count": 1
+    },
+    "loop": {
+      "translation": "循环",
+      "locked": false,
+      "count": 1
+    },
+    "condition": {
+      "translation": "条件",
+      "locked": false,
+      "count": 1
+    },
+    "recursive step": {
+      "translation": "递归步骤",
+      "locked": false,
+      "count": 1
+    },
+    "executable code": {
+      "translation": "可执行代码",
+      "locked": false,
+      "count": 1
+    },
+    "variable name": {
+      "translation": "变量名",
+      "locked": false,
+      "count": 1
+    },
+    "function name": {
+      "translation": "函数名",
+      "locked": false,
+      "count": 1
+    },
+    "string literal": {
+      "translation": "字符串字面量",
+      "locked": false,
+      "count": 1
+    },
+    "program output": {
+      "translation": "程序输出",
+      "locked": false,
+      "count": 1
+    }
+  }
+}

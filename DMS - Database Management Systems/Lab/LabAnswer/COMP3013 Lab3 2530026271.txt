@@ -1,0 +1,254 @@
+localhost/sakila/film/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=sakila
+
+   正在显示第 0 - 24 行 (共 25 行, 查询花费 0.0009 秒。)
+
+
+SELECT film.title
+FROM actor, film_actor, film
+WHERE actor.first_name = 'ZERO' AND actor.last_name = 'CAGE'
+  AND actor.actor_id = film_actor.actor_id
+  AND film_actor.film_id = film.film_id;
+
+
+title	
+CANYON STOCK	
+DANCES NONE	
+ENCINO ELF	
+ENDING CROWDS	
+GANDHI KWAI	
+GODFATHER DIARY	
+HANDICAP BOONDOCK	
+HONEY TIES	
+HORN WORKING	
+IMAGE PRINCESS	
+JERSEY SASSY	
+LOSER HUSTLER	
+MEET CHOCOLATE	
+MOD SECRETARY	
+MOONWALKER FOOL	
+OLEANDER CLUE	
+RACER EGG	
+STORY SIDE	
+STRANGERS GRAFFITI	
+THIN SAGEBRUSH	
+TOOTSIE PILOT	
+UPTOWN YOUNG	
+VELVET TERMINATOR	
+WEST LION	
+WORKER TARZAN	
+
+-----------------------------------------
+localhost/sakila/film/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=sakila
+
+   正在显示第 0 - 24 行 (共 30 行, 查询花费 0.0040 秒。)
+
+
+SELECT DISTINCT film.title
+FROM customer, rental, inventory, film
+WHERE customer.first_name = 'GEORGE' AND customer.last_name = 'LINTON'
+  AND customer.customer_id = rental.customer_id
+  AND rental.inventory_id = inventory.inventory_id
+  AND inventory.film_id = film.film_id;
+
+
+title	
+MADIGAN DORADO	
+WIFE TURN	
+TRANSLATION SUMMER	
+DIVORCE SHINING	
+MUMMY CREATURES	
+WRATH MILE	
+VIRGINIAN PLUTO	
+CADDYSHACK JEDI	
+TIES HUNGER	
+ZOOLANDER FICTION	
+PULP BEVERLY	
+ROCKETEER MOTHER	
+WEDDING APOLLO	
+GO PURPLE	
+BERETS AGENT	
+CHARADE DUFFEL	
+EVOLUTION ALTER	
+WONDERFUL DROP	
+LONELY ELEPHANT	
+ROOTS REMEMBER	
+PIANIST OUTFIELD	
+JUMPING WRATH	
+STRICTLY SCARFACE	
+WATCH TRACY	
+APACHE DIVINE	
+
+-----------------------------------------
+localhost/sakila/customer/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=sakila
+
+   正在显示第 0 - 24 行 (共 510 行, 查询花费 0.0019 秒。)
+
+
+SELECT DISTINCT customer.customer_id, customer.first_name, customer.last_name
+FROM customer, rental, inventory, film_category, category
+WHERE category.name = 'Action'
+  AND customer.customer_id = rental.customer_id
+  AND rental.inventory_id = inventory.inventory_id
+  AND inventory.film_id = film_category.film_id
+  AND film_category.category_id = category.category_id;
+
+
+customer_id	first_name	last_name	
+77	JANE	BENNETT	
+39	DEBRA	NELSON	
+34	REBECCA	SCOTT	
+254	MAXINE	SILVA	
+276	BRANDY	GRAVES	
+26	JESSICA	HALL	
+89	JULIA	FLORES	
+483	VERNON	CHAPA	
+36	KATHLEEN	ADAMS	
+487	HECTOR	POINDEXTER	
+177	SAMANTHA	DUNCAN	
+504	NATHANIEL	ADAM	
+119	SHERRY	MARSHALL	
+4	BARBARA	JONES	
+594	EDUARDO	HIATT	
+138	HAZEL	WARREN	
+512	CECIL	VINES	
+153	SUZANNE	NICHOLS	
+447	CLIFFORD	BOWENS	
+559	EVERETT	BANDA	
+6	JENNIFER	DAVIS	
+47	FRANCES	PARKER	
+298	ERIKA	PENA	
+371	BILLY	POULIN	
+188	MELANIE	ARMSTRONG	
+
+-----------------------------------------
+localhost/sakila/customer/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=sakila
+
+   正在显示第 0 - 24 行 (共 53 行, 查询花费 0.0026 秒。)
+
+
+SELECT DISTINCT customer.customer_id, customer.first_name, customer.last_name
+FROM customer, address, city, country, rental, inventory, film, language
+WHERE country.country = 'China'
+  AND language.name = 'English'
+  AND customer.address_id = address.address_id
+  AND address.city_id = city.city_id
+  AND city.country_id = country.country_id
+  AND customer.customer_id = rental.customer_id
+  AND rental.inventory_id = inventory.inventory_id
+  AND inventory.film_id = film.film_id
+  AND film.language_id = language.language_id;
+
+
+customer_id	first_name	last_name	
+538	TED	BREAUX	
+495	CHARLIE	BESS	
+533	JESSIE	MILAM	
+197	SUE	PETERS	
+260	CHRISTY	VARGAS	
+64	JUDITH	COX	
+466	LEO	EBERT	
+389	ALAN	KAHN	
+110	TIFFANY	JORDAN	
+313	DONALD	MAHON	
+211	STACEY	MONTGOMERY	
+281	LEONA	OBRIEN	
+552	HUGH	WALDROP	
+165	LORRAINE	STEPHENS	
+138	HAZEL	WARREN	
+384	ERNEST	STEPP	
+168	REGINA	BERRY	
+594	EDUARDO	HIATT	
+595	TERRENCE	GUNDERSON	
+435	RICKY	SHELBY	
+283	FELICIA	SUTTON	
+151	MEGAN	PALMER	
+422	MELVIN	ELLINGTON	
+267	MARGIE	WADE	
+569	DAVE	GARDINER	
+
+-----------------------------------------
+localhost/sakila/customer/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=sakila
+
+   正在显示第 0 - 24 行 (总数为 599，查询包含 0, 查询花费 0.0009 秒。)
+
+
+SELECT DISTINCT c1.customer_id, c1.first_name, c1.last_name,
+                c2.customer_id, c2.first_name, c2.last_name
+FROM customer AS c1, rental AS r1, inventory AS i1,
+     customer AS c2, rental AS r2, inventory AS i2
+WHERE c1.customer_id = r1.customer_id
+  AND r1.inventory_id = i1.inventory_id
+  AND c2.customer_id = r2.customer_id
+  AND r2.inventory_id = i2.inventory_id
+  AND i1.film_id = i2.film_id
+  AND c1.customer_id < c2.customer_id;
+
+
+
+431	JOEL	FRANCISCO	518	GABRIEL	HARDER	
+431	JOEL	FRANCISCO	581	VIRGIL	WOFFORD	
+431	JOEL	FRANCISCO	541	DARREN	WINDHAM	
+431	JOEL	FRANCISCO	587	SERGIO	STANFIELD	
+431	JOEL	FRANCISCO	597	FREDDIE	DUGGAN	
+431	JOEL	FRANCISCO	554	DWAYNE	OLVERA	
+431	JOEL	FRANCISCO	487	HECTOR	POINDEXTER	
+518	GABRIEL	HARDER	581	VIRGIL	WOFFORD	
+518	GABRIEL	HARDER	541	DARREN	WINDHAM	
+518	GABRIEL	HARDER	587	SERGIO	STANFIELD	
+518	GABRIEL	HARDER	597	FREDDIE	DUGGAN	
+518	GABRIEL	HARDER	554	DWAYNE	OLVERA	
+279	DIANNE	SHELTON	431	JOEL	FRANCISCO	
+279	DIANNE	SHELTON	518	GABRIEL	HARDER	
+279	DIANNE	SHELTON	411	NORMAN	CURRIER	
+279	DIANNE	SHELTON	581	VIRGIL	WOFFORD	
+279	DIANNE	SHELTON	359	WILLIE	MARKHAM	
+279	DIANNE	SHELTON	541	DARREN	WINDHAM	
+279	DIANNE	SHELTON	301	ROBERT	BAUGHMAN	
+279	DIANNE	SHELTON	344	HENRY	BILLINGSLEY	
+279	DIANNE	SHELTON	587	SERGIO	STANFIELD	
+279	DIANNE	SHELTON	597	FREDDIE	DUGGAN	
+279	DIANNE	SHELTON	554	DWAYNE	OLVERA	
+279	DIANNE	SHELTON	345	CARL	ARTIS	
+279	DIANNE	SHELTON	406	NATHAN	RUNYON	
+
+-----------------------------------------
+localhost/sakila/actor/		http://localhost/phpmyadmin/index.php?route=/database/sql&db=sakila
+
+   正在显示第 0 - 24 行 (共 169 行, 查询花费 0.0013 秒。)
+
+
+SELECT DISTINCT a2.actor_id, a2.first_name, a2.last_name
+FROM actor AS a1, film_actor AS fa1, actor AS a2, film_actor AS fa2
+WHERE a1.last_name = 'BOLGER'
+  AND a1.actor_id = fa1.actor_id
+  AND fa1.film_id = fa2.film_id
+  AND fa2.actor_id = a2.actor_id
+  AND a1.actor_id <> a2.actor_id;
+
+
+actor_id	first_name	last_name	
+29	ALEC	WAYNE	
+35	JUDY	DEAN	
+64	RAY	JOHANSSON	
+117	RENEE	TRACY	
+142	JADA	RYDER	
+157	GRETA	MALDEN	
+188	ROCK	DUKAKIS	
+75	BURT	POSEY	
+105	SIDNEY	CROWE	
+109	SYLVESTER	DERN	
+146	ALBERT	JOHANSSON	
+177	GENE	MCKELLEN	
+180	JEFF	SILVERSTONE	
+5	JOHNNY	LOLLOBRIGIDA	
+27	JULIA	MCQUEEN	
+43	KIRK	JOVOVICH	
+84	JAMES	PITT	
+104	PENELOPE	CRONYN	
+11	ZERO	CAGE	
+80	RALPH	CRUZ	
+100	SPENCER	DEPP	
+103	MATTHEW	LEIGH	
+149	RUSSELL	TEMPLE	
+17	HELEN	VOIGHT	
+34	AUDREY	OLIVIER	

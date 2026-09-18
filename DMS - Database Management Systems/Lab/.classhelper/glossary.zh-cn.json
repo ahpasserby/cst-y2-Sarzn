@@ -604,6 +604,121 @@
       "translation": "DDL",
       "locked": false,
       "count": 1
+    },
+    "cross table query": {
+      "translation": "交叉表查询",
+      "locked": false,
+      "count": 1
+    },
+    "cross table": {
+      "translation": "交叉表",
+      "locked": false,
+      "count": 1
+    },
+    "cartesian product": {
+      "translation": "笛卡尔积",
+      "locked": false,
+      "count": 1
+    },
+    "temporary table": {
+      "translation": "临时表",
+      "locked": false,
+      "count": 1
+    },
+    "city": {
+      "translation": "城市",
+      "locked": false,
+      "count": 1
+    },
+    "country": {
+      "translation": "国家",
+      "locked": false,
+      "count": 1
+    },
+    "country_id": {
+      "translation": "country_id",
+      "locked": false,
+      "count": 1
+    },
+    "city_id": {
+      "translation": "city_id",
+      "locked": false,
+      "count": 1
+    },
+    "last_update": {
+      "translation": "last_update",
+      "locked": false,
+      "count": 1
+    },
+    "phone number": {
+      "translation": "电话号码",
+      "locked": false,
+      "count": 1
+    },
+    "language": {
+      "translation": "语言",
+      "locked": false,
+      "count": 1
+    },
+    "key": {
+      "translation": "键",
+      "locked": false,
+      "count": 1
+    },
+    "actor id": {
+      "translation": "actor id",
+      "locked": false,
+      "count": 1
+    },
+    "keys": {
+      "translation": "键",
+      "locked": false,
+      "count": 1
+    },
+    "cross itself": {
+      "translation": "与自身交叉",
+      "locked": false,
+      "count": 1
+    },
+    "nested loop": {
+      "translation": "嵌套循环",
+      "locked": false,
+      "count": 1
+    },
+    "table times itself": {
+      "translation": "表与自身相乘",
+      "locked": false,
+      "count": 1
+    },
+    "duplicated": {
+      "translation": "重复",
+      "locked": false,
+      "count": 1
+    },
+    "distinct": {
+      "translation": "DISTINCT",
+      "locked": false,
+      "count": 1
+    },
+    "outer loop": {
+      "translation": "外层循环",
+      "locked": false,
+      "count": 1
+    },
+    "inner loop": {
+      "translation": "内层循环",
+      "locked": false,
+      "count": 1
+    },
+    "category": {
+      "translation": "category",
+      "locked": false,
+      "count": 1
+    },
+    "name": {
+      "translation": "name",
+      "locked": false,
+      "count": 1
     }
   }
 }

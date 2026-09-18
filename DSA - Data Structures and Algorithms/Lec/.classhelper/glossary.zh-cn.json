@@ -559,6 +559,266 @@
       "translation": "分配函数",
       "locked": false,
       "count": 1
+    },
+    "stack adt": {
+      "translation": "栈 ADT",
+      "locked": false,
+      "count": 1
+    },
+    "basic operations of stack": {
+      "translation": "栈的基本操作",
+      "locked": false,
+      "count": 1
+    },
+    "applications of stacks": {
+      "translation": "栈的应用",
+      "locked": false,
+      "count": 1
+    },
+    "implementations of stacks": {
+      "translation": "栈的实现",
+      "locked": false,
+      "count": 1
+    },
+    "lifo (last in, first out)": {
+      "translation": "LIFO（后进先出）",
+      "locked": false,
+      "count": 1
+    },
+    "stacks": {
+      "translation": "栈",
+      "locked": false,
+      "count": 1
+    },
+    "top": {
+      "translation": "top",
+      "locked": false,
+      "count": 1
+    },
+    "bottom": {
+      "translation": "bottom",
+      "locked": false,
+      "count": 1
+    },
+    "insertion": {
+      "translation": "插入",
+      "locked": false,
+      "count": 1
+    },
+    "deletion": {
+      "translation": "删除",
+      "locked": false,
+      "count": 1
+    },
+    "push": {
+      "translation": "Push",
+      "locked": false,
+      "count": 1
+    },
+    "pop": {
+      "translation": "Pop",
+      "locked": false,
+      "count": 1
+    },
+    "top of the stack": {
+      "translation": "栈顶",
+      "locked": false,
+      "count": 1
+    },
+    "peak": {
+      "translation": "Peak",
+      "locked": false,
+      "count": 1
+    },
+    "empty stack": {
+      "translation": "空栈",
+      "locked": false,
+      "count": 1
+    },
+    "postfix notation": {
+      "translation": "后缀表达式",
+      "locked": false,
+      "count": 1
+    },
+    "reverse polish notation": {
+      "translation": "逆波兰表示法",
+      "locked": false,
+      "count": 1
+    },
+    "operand": {
+      "translation": "操作数",
+      "locked": false,
+      "count": 1
+    },
+    "operator": {
+      "translation": "运算符",
+      "locked": false,
+      "count": 1
+    },
+    "expression evaluation": {
+      "translation": "表达式求值",
+      "locked": false,
+      "count": 1
+    },
+    "prefix expression": {
+      "translation": "前缀表达式",
+      "locked": false,
+      "count": 1
+    },
+    "infix expression": {
+      "translation": "中缀表达式",
+      "locked": false,
+      "count": 1
+    },
+    "postfix expression": {
+      "translation": "后缀表达式",
+      "locked": false,
+      "count": 1
+    },
+    "backtracking": {
+      "translation": "回溯",
+      "locked": false,
+      "count": 1
+    },
+    "game playing": {
+      "translation": "博弈",
+      "locked": false,
+      "count": 1
+    },
+    "finding paths": {
+      "translation": "路径查找",
+      "locked": false,
+      "count": 1
+    },
+    "exhaustive searching": {
+      "translation": "穷举搜索",
+      "locked": false,
+      "count": 1
+    },
+    "memory management": {
+      "translation": "内存管理",
+      "locked": false,
+      "count": 1
+    },
+    "stack implementation": {
+      "translation": "栈的实现",
+      "locked": false,
+      "count": 1
+    },
+    "maxtop": {
+      "translation": "maxTop",
+      "locked": false,
+      "count": 1
+    },
+    "values": {
+      "translation": "values",
+      "locked": false,
+      "count": 1
+    },
+    "top element of stack": {
+      "translation": "栈顶元素",
+      "locked": false,
+      "count": 1
+    },
+    "array": {
+      "translation": "数组",
+      "locked": false,
+      "count": 1
+    },
+    "implementation of stacks": {
+      "translation": "栈的实现",
+      "locked": false,
+      "count": 1
+    },
+    "efficiency": {
+      "translation": "效率",
+      "locked": false,
+      "count": 1
+    },
+    "space": {
+      "translation": "空间",
+      "locked": false,
+      "count": 1
+    },
+    "state": {
+      "translation": "状态",
+      "locked": false,
+      "count": 1
+    },
+    "maze": {
+      "translation": "迷宫",
+      "locked": false,
+      "count": 1
+    },
+    "graph": {
+      "translation": "图",
+      "locked": false,
+      "count": 1
+    },
+    "path": {
+      "translation": "路径",
+      "locked": false,
+      "count": 1
+    },
+    "decision point": {
+      "translation": "决策点",
+      "locked": false,
+      "count": 1
+    },
+    "dead-end": {
+      "translation": "死胡同",
+      "locked": false,
+      "count": 1
+    },
+    "alternative": {
+      "translation": "选择",
+      "locked": false,
+      "count": 1
+    },
+    "capacity": {
+      "translation": "容量",
+      "locked": false,
+      "count": 1
+    },
+    "top element": {
+      "translation": "栈顶元素",
+      "locked": false,
+      "count": 1
+    },
+    "true": {
+      "translation": "true",
+      "locked": false,
+      "count": 1
+    },
+    "false": {
+      "translation": "false",
+      "locked": false,
+      "count": 1
+    },
+    "displaystack": {
+      "translation": "DisplayStack",
+      "locked": false,
+      "count": 1
+    },
+    "destroystack": {
+      "translation": "DestroyStack",
+      "locked": false,
+      "count": 1
+    },
+    "file structure": {
+      "translation": "文件结构",
+      "locked": false,
+      "count": 1
+    },
+    "user defined data structures": {
+      "translation": "用户自定义数据结构",
+      "locked": false,
+      "count": 1
+    },
+    "main function": {
+      "translation": "main 函数",
+      "locked": false,
+      "count": 1
     }
   }
 }

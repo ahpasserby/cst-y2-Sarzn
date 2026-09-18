@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<truthTable>
+  <variables>
+    <variable name="x"/>
+    <variable name="y"/>
+    <variable name="z"/>
+  </variables>
+  <results>
+    <result>
+      <name>x•(not)z_+_y•(not)z</name>
+      <values class="BoolTable">00101010</values>
+    </result>
+  </results>
+</truthTable>

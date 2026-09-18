@@ -459,6 +459,246 @@
       "translation": "开设",
       "locked": false,
       "count": 1
+    },
+    "constraints": {
+      "translation": "约束",
+      "locked": false,
+      "count": 1
+    },
+    "cardinality constraints": {
+      "translation": "基数约束",
+      "locked": false,
+      "count": 1
+    },
+    "participation constraints": {
+      "translation": "参与约束",
+      "locked": false,
+      "count": 1
+    },
+    "ternary relationship sets": {
+      "translation": "三元联系集",
+      "locked": false,
+      "count": 1
+    },
+    "relationship constraints": {
+      "translation": "联系约束",
+      "locked": false,
+      "count": 1
+    },
+    "cardinality": {
+      "translation": "基数",
+      "locked": false,
+      "count": 1
+    },
+    "set theory": {
+      "translation": "集合论",
+      "locked": false,
+      "count": 1
+    },
+    "cardinality constraint": {
+      "translation": "基数约束",
+      "locked": false,
+      "count": 1
+    },
+    "many-to-one relationship set": {
+      "translation": "多对一联系集",
+      "locked": false,
+      "count": 1
+    },
+    "many side": {
+      "translation": "多端",
+      "locked": false,
+      "count": 1
+    },
+    "one side": {
+      "translation": "一端",
+      "locked": false,
+      "count": 1
+    },
+    "one-to-one relationship": {
+      "translation": "一对一联系",
+      "locked": false,
+      "count": 1
+    },
+    "associated with": {
+      "translation": "与……相关联",
+      "locked": false,
+      "count": 1
+    },
+    "vice versa": {
+      "translation": "反之亦然",
+      "locked": false,
+      "count": 1
+    },
+    "one-to-many relationship": {
+      "translation": "一对多联系",
+      "locked": false,
+      "count": 1
+    },
+    "many-to-one": {
+      "translation": "多对一",
+      "locked": false,
+      "count": 1
+    },
+    "many-to-many relationship": {
+      "translation": "多对多联系",
+      "locked": false,
+      "count": 1
+    },
+    "total participation": {
+      "translation": "全部参与",
+      "locked": false,
+      "count": 1
+    },
+    "partial participation": {
+      "translation": "部分参与",
+      "locked": false,
+      "count": 1
+    },
+    "participation constraint": {
+      "translation": "参与约束",
+      "locked": false,
+      "count": 1
+    },
+    "partial side": {
+      "translation": "部分端",
+      "locked": false,
+      "count": 1
+    },
+    "total side": {
+      "translation": "全端",
+      "locked": false,
+      "count": 1
+    },
+    "ternary relationship set": {
+      "translation": "三元联系集",
+      "locked": false,
+      "count": 1
+    },
+    "course": {
+      "translation": "课程",
+      "locked": false,
+      "count": 1
+    },
+    "relationships": {
+      "translation": "联系",
+      "locked": false,
+      "count": 1
+    },
+    "not allowed": {
+      "translation": "不允许",
+      "locked": false,
+      "count": 1
+    },
+    "artificial entity set": {
+      "translation": "人工实体集",
+      "locked": false,
+      "count": 1
+    },
+    "artificial relationship set": {
+      "translation": "人工联系集",
+      "locked": false,
+      "count": 1
+    },
+    "many-to-one constraints": {
+      "translation": "多对一约束",
+      "locked": false,
+      "count": 1
+    },
+    "combination of entities": {
+      "translation": "实体的组合",
+      "locked": false,
+      "count": 1
+    },
+    "non-binary": {
+      "translation": "非二元",
+      "locked": false,
+      "count": 1
+    },
+    "artificial entity": {
+      "translation": "人工实体",
+      "locked": false,
+      "count": 1
+    },
+    "generalized": {
+      "translation": "推广",
+      "locked": false,
+      "count": 1
+    },
+    "one-to-many relationship set": {
+      "translation": "一对多联系集",
+      "locked": false,
+      "count": 1
+    },
+    "one-to-one relationship set": {
+      "translation": "一对一联系集",
+      "locked": false,
+      "count": 1
+    },
+    "meaning 1": {
+      "translation": "含义 1",
+      "locked": false,
+      "count": 1
+    },
+    "meaning 2": {
+      "translation": "含义 2",
+      "locked": false,
+      "count": 1
+    },
+    "construction": {
+      "translation": "构造",
+      "locked": false,
+      "count": 1
+    },
+    "constraint": {
+      "translation": "约束",
+      "locked": false,
+      "count": 1
+    },
+    "many-to-many": {
+      "translation": "多对多",
+      "locked": false,
+      "count": 1
+    },
+    "applications": {
+      "translation": "应用程序",
+      "locked": false,
+      "count": 1
+    },
+    "combination": {
+      "translation": "组合",
+      "locked": false,
+      "count": 1
+    },
+    "instructors": {
+      "translation": "教师",
+      "locked": false,
+      "count": 1
+    },
+    "courses": {
+      "translation": "课程",
+      "locked": false,
+      "count": 1
+    },
+    "conversion": {
+      "translation": "转换",
+      "locked": false,
+      "count": 1
+    },
+    "extended features": {
+      "translation": "扩展特性",
+      "locked": false,
+      "count": 1
+    },
+    "pd": {
+      "translation": "PD",
+      "locked": false,
+      "count": 1
+    },
+    "transcript": {
+      "translation": "transcript",
+      "locked": false,
+      "count": 1
     }
   }
 }
